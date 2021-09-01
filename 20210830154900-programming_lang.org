@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3471ecac-5de8-4074-937e-d3980fb61130
+:END:
+#+title: Programming Lang
+
+Some Great Programming Languages
+
+- [[id:c6e0482d-8f86-44df-a441-2705841f8dea][Emacs Lisp]]
+- [[id:71d4201a-3b69-450e-bb87-88044180532c][C++]]
+- [[id:5f53a778-03e0-4e02-a236-953266e51c51][Java]]
+
+  [[id:c6e0482d-8f86-44df-a441-2705841f8dea][Emacs Lisp]]
+
+  [[id:5f53a778-03e0-4e02-a236-953266e51c51][Java]]
+
+[[id:5c7da0e3-478a-491e-bf56-28baa93e8fe7][LinearAlgebra]]
+
+[[id:c6e0482d-8f86-44df-a441-2705841f8dea][Emacs Lisp]]
+
+[[id:3471ecac-5de8-4074-937e-d3980fb61130][Programming Lang]]
+
+

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f53a778-03e0-4e02-a236-953266e51c51
+:END:
+#+title: Java
+
+[[id:3471ecac-5de8-4074-937e-d3980fb61130][Programming Lang]]
+
+* Resources
+:PROPERTIES:
+:ID:       09fd2c61-c342-49f9-9bb9-ae881efda85e
+:END:

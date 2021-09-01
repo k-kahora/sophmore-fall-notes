@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a5f60077-5ba8-432c-9ad2-671f77b271d1
+:END:
+#+title: Classes
+My classes for the 2021 Fall semester.
+* [[id:7f212453-f8f6-4753-9451-796941ad524b][Linear Algebra]]
+** Teacher Matthew Mizuhara
+** [[https://tcnj.instructure.com/courses/1792305][Canvas]]
+** [[https://tcnj.instructure.com/courses/1792305/modules][Modules]]
+
+* Computer Architecture
+* Analysis of Algorithims
+* Creative Design

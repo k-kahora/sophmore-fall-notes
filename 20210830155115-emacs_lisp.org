@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c6e0482d-8f86-44df-a441-2705841f8dea
+:END:
+#+title: Emacs Lisp
+
+[[id:3471ecac-5de8-4074-937e-d3980fb61130][Programming Lang]]
+
+* Resources
+:PROPERTIES:
+:ID:       5605e569-d3e8-41a6-9953-96b5c23e85aa
+:ROAM_ALIASES: "Elisp Resources"
+:END:
+Elisp Lang
+* Files

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       71d4201a-3b69-450e-bb87-88044180532c
+:END:
+#+title: C++
+
+[[id:3471ecac-5de8-4074-937e-d3980fb61130][Programming Lang]]
+

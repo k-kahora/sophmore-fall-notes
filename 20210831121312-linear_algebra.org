@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       7f212453-f8f6-4753-9451-796941ad524b
+:END:
+#+title: Linear Algebra
+
+[[id:a5f60077-5ba8-432c-9ad2-671f77b271d1][Classes]]
+
+* Linear Reasources
+* Section 1.1
+:PROPERTIES:
+:ID:       e3da2360-3280-4399-bf67-41a184c69bd3
+:END:
+** System of linear eqautions
+*** A linear system is is a collection of linear equations.  A [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] is n array of numbers which represents the information of a linear system.  For example
+
+| 1 | -2 |  1 |  0  |
+| 0 |  2 | -8 |  8  |
+| 0 |  5 | -5 | 10 |
+
+Solving a linear system using [[id:ba30bf29-53ba-4a8f-bbe5-4ae1c37c3988][Gaussian Elimination]]
+
+Solved using the matrixes which is much better then a cumbersonme
+approach using a system of equations.  [[id:f022aa49-51d5-4c67-952d-13c4c8d2ca2b][elementary row operations]]
+** Theroem
+:PROPERTIES:
+:ID:       9d9f2515-dd73-41a2-8921-402b39dded0e
+:END:
+*** Every system of linear equations has 0 1 or infinite soloutions.
+
+* Section 1.2
+

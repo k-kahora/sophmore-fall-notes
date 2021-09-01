@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ba30bf29-53ba-4a8f-bbe5-4ae1c37c3988
+:END:
+#+title: Gaussian Elimination
+
+Also called row reduction.  Use the first equation to to eliminate x1
+from the linear system

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f022aa49-51d5-4c67-952d-13c4c8d2ca2b
+:END:
+#+title: elementary row operations
+
+Part of [[id:7f212453-f8f6-4753-9451-796941ad524b][Linear Algebra]]
+* Replacement
+:PROPERTIES:
+:ID:       da212909-d511-4b93-a5e8-4f7b00a28cf5
+:END:
+Replace one row by the sum of itself and a multiple of another row
+* Scaling
+:PROPERTIES:
+:ID:       7ca44dcb-c9ad-45a4-8b6b-db7136651e82
+:END:
+Multiply all entries in a row by a non zero constant
+* Interchange
+:PROPERTIES:
+:ID:       982e6077-78db-4724-bb2d-ac5edde6d946
+:END:
+Interchange two rows
