@@ -28,4 +28,7 @@ approach using a system of equations.  [[id:f022aa49-51d5-4c67-952d-13c4c8d2ca2b
 *** Every system of linear equations has 0 1 or infinite soloutions.
 
 * Section 1.2
+:PROPERTIES:
+:ID:       55e2bb5b-8f2c-4222-810d-246aa4f01592
+:END:
 
