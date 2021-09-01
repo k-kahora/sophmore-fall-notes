@@ -32,3 +32,22 @@ approach using a system of equations.  [[id:f022aa49-51d5-4c67-952d-13c4c8d2ca2b
 :ID:       55e2bb5b-8f2c-4222-810d-246aa4f01592
 :END:
 
+** Learning Objectives
+
+*** Transform amatrix into [[id:04061155-3cb2-4802-bd96-869fa1904bea][echelon]] or reduced [[id:04061155-3cb2-4802-bd96-869fa1904bea][echelon]] form.
+
+*** Use pivots and free varibles to deduce information about existence and uniqueness of solutions of the linear system.
+
+** Forward phase: word down the matrix creating 0s below certain entries
+
+** Backward phase: work back up the matrix creating 0s above certain entries
+
+** Pivots and free varibles
+
+*** The entries corresponding to leading  1s in reduced row [[id:04061155-3cb2-4802-bd96-869fa1904bea][echelon]] form are called pivots.
+
+*** The columns with pivot positions are called pivot columns
+
+** Revisiting existence and uniqueness
+
+*** Is the system consistent? That is, does there exist at least one soulution? If a soulution exists, is it unique.

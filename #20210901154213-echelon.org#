@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       04061155-3cb2-4802-bd96-869fa1904bea
+:END:
+#+title: echelon
+
+A aspect of [[id:7f212453-f8f6-4753-9451-796941ad524b][Linear Algebra]] for solving matrixes
+
+Echelon form is the following
+
+* Any rows of all zeros are at the bottom of the matrix
+* Each leading entry of a row is in a column to the right of the leading entry of the row above
+* All entries in a column below a leading entry are zeros.
+
+A matrix that is already in echelon form is in reduced echelon form if
+* The leading entry in each non-zero row is 1
+* Each leading 1 is the only nonzero entry in the column
+
+
