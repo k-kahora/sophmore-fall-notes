@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       ebcf90d8-dd3c-4b3a-9d7f-5e76d5293e5d
+:END:
+#+title: Weekly Schedule
+* Week 1
+** Digital logic and digital systems
+** Combinational Logic
+* Week 2
+** Combinational logic design and implementation
+*** Number Systems and artithmatic
+*** Using simulation ([[id:3eeb462e-b259-4065-bbb5-34e072b8449d][LogicWorks]])
+* Week 3
+** Combinational Devices and Sequential Logic
+** MSI devices, Registers,
+** CountersSequential logic
+* Week 4
+** Implementing Sequential Design, Integrating Control, Supporting Datapath
+** Von Neumann Architecture
+** Computer Interconnect
+** Instruction set architecture
+** RAM (Memory) and Registers
+* Week 5
+** Processors and Basic Computer Case StudyData path; Bus control
+** TODO logicExam 1, Thursday, Sept.30
+:LOGBOOK:
+- State "HOLD"       from "WAIT"       [2021-09-07 Tue 08:20]
+- State "DONE"       from "NEXT"       [2021-09-07 Tue 08:20]
+:END:
+* Week 6
+** RTL Specifications and Control
+** Register transfer language and microoperations
+** Control unit
+** Processor organization; Microcode
+* Week 7
+** Development of Control Logic and Simple Machine Assembly Language and Programming
+* Week 8
+** Instruction Representation
+** Programming at the assembly level
+** Memory system organization and architecture
+* Week 9
+** ALU and [[id:3471ecac-5de8-4074-937e-d3980fb61130][Programming Lang]]
+* Week 10
+** Programmed (busy-wait) I/O
+* Week 11
+** I/O handlingwith interrupts, Device drivers, Buffered I/O
+** Parameter Passing in Assembly Programming
+** Functions (Subroutines)
+* Week 12
+** Memory Hierarchy
+** Cache Memory
+** Locality Principle
+* Week 13
+** High Performance Support
+** Pipelined Architecture
+** Pipelining Hazards
+* Week 14
+** Performance and Benchmarking
+** Parallel Support
+* Week 15
+** TBA
+

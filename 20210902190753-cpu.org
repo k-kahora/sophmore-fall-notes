@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b9f9ce1d-63cb-43f3-ac7a-756458913509
+:END:
+#+title: CPU
+
+
+The CPU as described in [[id:97dba05a-fc56-4929-a1bb-11f25eb9ee91][Computer Architecture]]
+
+Contols units for fetching and executing instructions
+Registers
+Arithmetic and logic unit to manipulate data
+
+

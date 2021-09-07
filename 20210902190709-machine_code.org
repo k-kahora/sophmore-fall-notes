@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e720b0b1-e4e3-403a-8aab-e15331a390e9
+:END:
+#+title: Machine Code
+

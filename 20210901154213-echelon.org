@@ -14,3 +14,5 @@ Echelon form is the following
 A matrix that is already in echelon form is in reduced echelon form if
 * The leading entry in each non-zero row is 1
 * Each leading 1 is the only nonzero entry in the column
+
+

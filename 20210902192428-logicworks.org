@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       3eeb462e-b259-4065-bbb5-34e072b8449d
+:END:
+#+title: LogicWorks
+
+
+Software is availble via [[id:0c7340f2-8bd8-4c5d-9c6d-38f4cf45bcf4][Virtual Lab]]
+
+All design class work for 325 CSC
+
+
+[[https://www.box.net/s/4zcr479igj][Additional Refrence Material]]
+
+g

@@ -11,6 +11,9 @@ My classes for the 2021 Fall semester.
 ** [[https://tcnj.instructure.com/courses/1792305][Canvas]]
 ** [[https://tcnj.instructure.com/courses/1792305/modules][Modules]]
 
-* Computer Architecture
+* [[id:97dba05a-fc56-4929-a1bb-11f25eb9ee91][Computer Architecture]]
+** Syllabus
+** [[https://tcnj.instructure.com/courses/1792232/files/125049779?module_item_id=29278374][Canvas]]
+** 
 * Analysis of Algorithims
 * Creative Design

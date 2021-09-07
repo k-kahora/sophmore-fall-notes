@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       97dba05a-fc56-4929-a1bb-11f25eb9ee91
+:END:
+#+title: Computer Architecture
+
+From [[id:a5f60077-5ba8-432c-9ad2-671f77b271d1][Classes]]
+
+* Session 1
+
+Language Hierarchy
+** High Level ([[id:5f53a778-03e0-4e02-a236-953266e51c51][Java]], PHP, [[id:bfb128df-9fc1-4212-a124-95c7f04ef2dd][Python]])
+*** [[id:db760d76-1883-48ba-acc5-918fb8c44a59][Assembley Language]]
+**** [[id:e720b0b1-e4e3-403a-8aab-e15331a390e9][Machine Code]]
+***** [[id:2a229390-c0e1-48d7-ac06-013ac20f28f6][Hardware]]
+
+
+** [[id:b9f9ce1d-63cb-43f3-ac7a-756458913509][CPU]]
+
+** [[id:689bab54-c1c3-48bb-8a56-50683110a4b5][Memory]]
+
+** [[id:2e66b751-5533-410a-9871-ef494b676206][Input/Output]]
+
+** [[id:3eeb462e-b259-4065-bbb5-34e072b8449d][LogicWorks]]
+
+*** For designa nd computer simulation
+
+** Non decimal numbers
+
+** [[id:4042cf69-8321-418f-9da8-8e6e62beec5e][Manos Simple Computer]]
+* Computer Architecture
+* Computer Organazation
+* Computer Design and simulation

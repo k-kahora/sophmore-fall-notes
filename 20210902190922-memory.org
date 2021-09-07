@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       689bab54-c1c3-48bb-8a56-50683110a4b5
+:END:
+#+title: Memory
+
+Heiarchy of memeory (access time and space)

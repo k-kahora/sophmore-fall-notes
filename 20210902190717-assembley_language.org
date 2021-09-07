@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       db760d76-1883-48ba-acc5-918fb8c44a59
+:END:
+#+title: Assembley Language
+

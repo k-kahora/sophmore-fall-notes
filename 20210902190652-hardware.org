@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2a229390-c0e1-48d7-ac06-013ac20f28f6
+:END:
+#+title: Hardware
+
