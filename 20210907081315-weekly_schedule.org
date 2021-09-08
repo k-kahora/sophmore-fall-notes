@@ -2,8 +2,11 @@
 :ID:       ebcf90d8-dd3c-4b3a-9d7f-5e76d5293e5d
 :END:
 #+title: Weekly Schedule
+
+from [[id:97dba05a-fc56-4929-a1bb-11f25eb9ee91][Computer Architecture]]
+
 * Week 1
-** Digital logic and digital systems
+** [[id:0fc88756-f780-40dc-9f2c-fb408bd8d901][Digital logic and digital systems]]
 ** Combinational Logic
 * Week 2
 ** Combinational logic design and implementation
