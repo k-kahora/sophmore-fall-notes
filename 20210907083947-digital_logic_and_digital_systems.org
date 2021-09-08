@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0fc88756-f780-40dc-9f2c-fb408bd8d901
+:END:
+#+title: Digital logic and digital systems
+
+Covered [[id:09ca475e-5685-4b7a-8166-e9ef9a8779cf][Non decimal numbers]]
+
+also [[id:b9f9ce1d-63cb-43f3-ac7a-756458913509][CPU]]

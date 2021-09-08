@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       20ab10f5-a298-45d3-bc5d-ebdb16d0ffc2
+:END:
+#+title: Permanent Notes
+* Focused
+** Notes describe one idea only this makes note linkable.
+* Atomic
+** A note is self contained.  You can understand without reading other notes
+* Short
+** A note is short you should be able to fit multiple notes in one screen. A long note is an example of too many ideas in one note
+* In context
+** Ideas are linked with realtive ideas
