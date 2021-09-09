@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       99194393-6a11-4444-aafe-0efeece3aa4c
+:END:
+#+title: magit-clone
+
+Best way to clone a git repo us with "M-x magit clone" use u because
+it ask to provid a URL to github or other online repo.
+
+Magit assumes its from git hub you can just use username/reponame
+
+malcolm/roam-notes
+
+
