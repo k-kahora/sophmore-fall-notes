@@ -8,6 +8,11 @@ it ask to provid a URL to github or other online repo.
 
 Magit assumes its from git hub you can just use username/reponame
 
+This only works if you have an SSH set up otherwise you use entire
+HTTPS link
+
 malcolm/roam-notes
+
+Currently using https but cant figure out how to use SSH key instead
 
 
