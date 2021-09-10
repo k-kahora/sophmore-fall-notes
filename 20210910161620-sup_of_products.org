@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       861ff439-0315-45aa-970f-ffe8ed2bcc8e
+:END:
+#+title: Sum of Products
+
+- A Boolean expression consisting of each term of a function expressed with AND operators, with all terms joined by OR operators
+- Example: The [[id:6614b990-be11-45f9-8b15-27ec6467d4a9][canonical equation]] of F = a'bc + ab'c + a'b'c' is
+  a SoP expression
+

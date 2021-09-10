@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       9d7b0243-e19e-49f8-bc2f-be0438023d87
+:END:
+#+title: Kmap
+
+Also known as Karnaugh Map
+
+Used to simplfly Boolean Logic.
+
+Example given a [[id:861ff439-0315-45aa-970f-ffe8ed2bcc8e][Sum of Products]] F(a,b,c) = Em(2,3,6)
+
+| abc    | b'c = 00 | b'c = 01 | bc = 11 | bc' = 10 |
+|--------+----------+----------+---------+----------|
+| a' = 0 |        0 |        0 |       1 |        1 |
+| a = 1  |        0 |        0 |       0 |        1 |
+
+Formated using a [[id:316a0ab1-a0e6-4384-bf81-c0bb3a710167][grey code]]
+Covering must be size of 2^n in a [[id:9d7b0243-e19e-49f8-bc2f-be0438023d87][Kmap]]
+
+Minterm placement depends on grey code used
+Order of varibles is signifant
+* Kmap simplfication
+** Each one must be covered but only needs to be covered once but can be covered more than once to simplfy other expressions
+** Coverings are a power of 2
+** COverings CAN'T be diagonal
+** Covering can coonect sides and bootoms
+** You can cover all four corners
+** An X (don't care) does not have to be covered but can be look at [[id:185f6e21-6b8f-4e1f-9e17-f50db62ebc3e][kmap states]]
+

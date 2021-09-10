@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6614b990-be11-45f9-8b15-27ec6467d4a9
+:END:
+#+title: canonical equation
+

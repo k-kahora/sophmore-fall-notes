@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       08888ee0-930a-4f34-913e-d0d8b6b4bbb9
+:END:
+#+title: Combinational Logic
+
+Combinational Logic is a using binary to combine gates to allow a
+truth table to work through a circuit.
+* Implementing a boolean function 
+** Table of logic
+| a | b | c | F  |
+|---+---+---+---|
+| 0 | 0 | 0 | 0 |
+| 0 | 0 | 1 | 0 |
+| 0 | 1 | 0 | 1 | *
+| 0 | 1 | 1 | 1 | *
+| 1 | 0 | 0 | 0 |
+| 1 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 1 | *
+| 1 | 1 | 1 | 0 |
+
+- Therefore you can generate a [[id:6614b990-be11-45f9-8b15-27ec6467d4a9][canonical equation]] from the table
+   F = a'bc' + a'bc + abc'
+- [[id:a085a20a-e003-4229-a963-db748e91ad11][Sum of minterms]] form is F(a,b,c) = Em(2,3,6)
+- [[id:861ff439-0315-45aa-970f-ffe8ed2bcc8e][Sum of Products]] is used in a [[id:9d7b0243-e19e-49f8-bc2f-be0438023d87][Kmap]]
+- 
+

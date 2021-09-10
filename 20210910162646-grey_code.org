@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       316a0ab1-a0e6-4384-bf81-c0bb3a710167
+:END:
+#+title: grey code
+
+The grey code we use in [[id:97dba05a-fc56-4929-a1bb-11f25eb9ee91][Computer Architecture]] is
+
+| 000 |
+| 001 |
+| 011 |
+| 010 |
+| 110 |
+| 111 |
+| 101 |
+| 100 |
+
+Grey Codes are not unique
+Only one order of bit at a time is changed
+
+looking at the last row and first the grey code wraps arounf while
+still only changing one bit at a time
+

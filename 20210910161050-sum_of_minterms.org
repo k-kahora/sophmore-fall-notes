@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a085a20a-e003-4229-a963-db748e91ad11
+:END:
+#+title: Sum of minterms
+
+Given a combination convert to decimal in order to aquire the sum of
+minterms
+
+so
+
+001
+010
+101
+
+minterms would be Em(1, 2, 5)

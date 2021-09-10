@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       185f6e21-6b8f-4e1f-9e17-f50db62ebc3e
+:END:
+#+title: kmap states
+
+- Three states 0,1,X
+- Don't care state is an X
+- When does a don't care happen
+  - It arises when there is a gaurentee that a value will never be generated
+  - mod 5 for example has these possible outcomes (0,1,2,3,4) so other
+    values we don't care :\
+* Use the X in [[id:9d7b0243-e19e-49f8-bc2f-be0438023d87][Kmap]]s they allow for larger coverings which makes a more minal expression.  You don't need to cover X's though

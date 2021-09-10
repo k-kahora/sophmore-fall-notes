@@ -7,7 +7,7 @@ from [[id:97dba05a-fc56-4929-a1bb-11f25eb9ee91][Computer Architecture]]
 
 * Week 1
 ** [[id:0fc88756-f780-40dc-9f2c-fb408bd8d901][Digital logic and digital systems]]
-** Combinational Logic
+** [[id:08888ee0-930a-4f34-913e-d0d8b6b4bbb9][Combinational Logic]]
 * Week 2
 ** Combinational logic design and implementation
 *** Number Systems and artithmatic
