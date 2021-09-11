@@ -26,4 +26,9 @@ Order of varibles is signifant
 ** Covering can coonect sides and bootoms
 ** You can cover all four corners
 ** An X (don't care) does not have to be covered but can be look at [[id:185f6e21-6b8f-4e1f-9e17-f50db62ebc3e][kmap states]]
+* Kmap Refrences
+:PROPERTIES:
+:ID:       c9236645-e259-4b1e-97e0-e2346f7fce97
+:END:
+** [[https://app.box.com/shared/4zcr479igj/1/26116716/270739814/1 ][Online Textbook]]
 
