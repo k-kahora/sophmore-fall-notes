@@ -16,4 +16,4 @@ My classes for the 2021 Fall semester.
 ** [[https://tcnj.instructure.com/courses/1792232/files/125049779?module_item_id=29278374][Canvas]]
 ** 
 * Analysis of Algorithims
-* Creative Design
+* [[id:022dc942-726f-400d-9384-e44ac880a3eb][Creative Design]]
