@@ -22,5 +22,7 @@ truth table to work through a circuit.
    F = a'bc' + a'bc + abc'
 - [[id:a085a20a-e003-4229-a963-db748e91ad11][Sum of minterms]] form is F(a,b,c) = Em(2,3,6)
 - [[id:861ff439-0315-45aa-970f-ffe8ed2bcc8e][Sum of Products]] is used in a [[id:9d7b0243-e19e-49f8-bc2f-be0438023d87][Kmap]]
-- 
+
+  Generate a sum of minterms from the truth table.  Use the sum of
+  minterms to make a [[id:9d7b0243-e19e-49f8-bc2f-be0438023d87][Kmap]]
 

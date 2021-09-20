@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       9af9e913-fd7e-4888-949e-38ae66113510
+:END:
+#+title: Decoder
+
+
+Decoer is a a [[id:8f30a3f9-e9af-4ddb-a071-c9689cf09737][Combinational Device]] a decoder integrated circuit
+connverts n binary n binary inputs to a maximum of 2^n outputs
+
+So a 3X8 decoder 3 is n or a 4X16 decoder
+
+Decoders can implement a [[id:6614b990-be11-45f9-8b15-27ec6467d4a9][canonical equation]] and [[id:a085a20a-e003-4229-a963-db748e91ad11][Sum of minterms]]
+expression.
+
+A product term is a minterm
+Decoder generate minterms
+
+Use decoder and or gate to implement function
+
+#+attr_org: :width 400px
+#+attr_latex: :width 100px
+#+CAPTION: A function made using a or gate and a decoder
+[[~/OrgRoamImages/decoder.PNG]]
+
+Using a decoder to implement a function with multiple outputs
+* Step 1
+Specify Functions in truth table
+* Step 2
+Collect minterms for each function
+* Step 3
+Implement using a decoder (what size?) and *ONE OR GATE PER FUNCTION*
+
+

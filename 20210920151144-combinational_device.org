@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       8f30a3f9-e9af-4ddb-a071-c9689cf09737
+:END:
+#+title: Combinational Device
+
+Devices such as a [[id:9af9e913-fd7e-4888-949e-38ae66113510][Decoder]] and a [[id:4a652fec-8f4f-4942-82f7-c344be9a59c6][MUX]]

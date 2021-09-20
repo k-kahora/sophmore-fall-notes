@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ee27c1c0-e53c-444c-b2e8-66faf806aa9d
+:END:
+#+title: free varible
+
+A varibile in [[id:7f212453-f8f6-4753-9451-796941ad524b][Linear Algebra]] that can manipilated to any value.
+
+Its counter part the [[id:535b9d9a-6614-4164-a650-93ab5a176e53][base varible]] has a value.

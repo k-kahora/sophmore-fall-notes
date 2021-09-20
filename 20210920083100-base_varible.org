@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       535b9d9a-6614-4164-a650-93ab5a176e53
+:END:
+#+title: base varible
+

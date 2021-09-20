@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       81b77b50-4112-469e-a805-2d84d4a123e3
+:END:
+#+title: Section 1.5
+
+
+Part of [[id:7f212453-f8f6-4753-9451-796941ad524b][Linear Algebra]]
+* Learning Objective
+** Describe the sets of homogeneous and non homogeneous systems as geometric translations.
+** Relate solutions sets of homogeneous and non-homogeneous systems as geometric translations of each other.
+* [[id:6ddc0bf5-c1ba-4dde-8bd2-fa3611d2aba9][Homogeneous equation]]
+** Ax = 0
+
+We always have the trivial solution x - 0
+
+The [[id:6ddc0bf5-c1ba-4dde-8bd2-fa3611d2aba9][homogeneous equation]] Ax = 0 has a non trivial soulution if and
+only if the system has a [[id:ee27c1c0-e53c-444c-b2e8-66faf806aa9d][free varible]]
+

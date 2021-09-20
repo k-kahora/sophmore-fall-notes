@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6ddc0bf5-c1ba-4dde-8bd2-fa3611d2aba9
+:END:
+#+title: homogeneous equation
+
+Part of a [[id:21c8fa35-a2c4-4651-865e-4d3d58983474][linear combinations]] where Ax = 0
+
+Ax = 0 has a non trivial soulution if and only if the equation has at
+least on free varible.

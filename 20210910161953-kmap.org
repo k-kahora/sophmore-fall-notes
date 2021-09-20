@@ -22,8 +22,8 @@ Order of varibles is signifant
 * Kmap simplfication
 ** Each one must be covered but only needs to be covered once but can be covered more than once to simplfy other expressions
 ** Coverings are a power of 2
-** COverings CAN'T be diagonal
-** Covering can coonect sides and bootoms
+** C0verings CAN'T be diagonal
+** Covering can cooect sides and bootoms
 ** You can cover all four corners
 ** An X (don't care) does not have to be covered but can be look at [[id:185f6e21-6b8f-4e1f-9e17-f50db62ebc3e][kmap states]]
 * Kmap Refrences
