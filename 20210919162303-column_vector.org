@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ae5cde4f-da28-4636-8fa6-0a1421da99bc
+:END:
+#+title: column vector
+
+A [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] arranged horizontally

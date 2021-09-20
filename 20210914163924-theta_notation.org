@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b8e3649d-509d-45a9-9f28-e87a34cfcdf3
+:END:
+#+title: theta notation
+

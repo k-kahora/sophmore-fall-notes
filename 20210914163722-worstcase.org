@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       1d3c49ab-d444-4cab-bf64-e57f992e59ba
+:END:
+#+title: Worstcase
+
+It depends on speed of the computer
+relative speed is non machine depedenat
+absolute speed is machine dependant
+
+Growth is T(n) as n -> infinity

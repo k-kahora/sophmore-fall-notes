@@ -1,8 +1,36 @@
 :PROPERTIES:
 :ID:       5ab3eac4-522f-4270-bfd4-1f66e921a376
 :END:
-#+title: Analysis of Algorithims
+#+title: Analysis of Algorithms
 
 [[id:a5f60077-5ba8-432c-9ad2-671f77b271d1][Classes]]
 
 * Analysis Resources
+
+Notes
+
+Why do we study Algorithims.  They help us understand Scalibiliy
+
+Helps draw the line between what is feasible and what is impossible
+
+Performance is the currency of computers limited amount.
+
+It also helps us understand better using a common language.
+
+Anaysis is commonly donr on [[id:5c6ab6fd-fab9-4662-92f2-55ec29918af6][Sorting]] programs
+
+* [[id:1d3c49ab-d444-4cab-bf64-e57f992e59ba][Worstcase]]
+
+** Maximum time given size n
+
+* Average Case
+
+** Average time given size n
+
+* Best Case 
+
+** Works for some specific inpit not intresting for complexity
+
+* Sign notation
+
+** [[id:17439a36-432f-45ec-b01a-beb5bac9fd25][big O notaion]]

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       17439a36-432f-45ec-b01a-beb5bac9fd25
+:END:
+#+title: big O notaion
+
+
+Upper bound notation
+* Formal definition
+
+
+\(\pi \beta )\ 

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f4b6aab4-0cac-467c-ad93-a3f161f45cf0
+:END:
+#+title: Org Mode UI
+
+part of 
+
+Currently not on MELPA or ELPA
+
+#+BEGIN_SRC emacs-lisp
+  
+  ; updates everytime you save if not set to nil
+  (setq org-roam-ui-update-on-save nil)
+  
+#+END_SRC
+
+#+BEGIN_SRC emacs-lisp
+  
+  ; comment
+  
+#+END_SRC
+

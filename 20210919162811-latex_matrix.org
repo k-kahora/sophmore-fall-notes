@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c20669ab-dc55-43e6-842d-edc00d87aacd
+:END:
+#+title: latex matrix
+
+Used to make [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]]es
+
+For round brackets use \begin{pmatrix}\end{pmatrix}
+For square brackets use \begin{bmatrix}\end{bmatrix}
+Also \begin{vmatrix} and \end{vmatrix} for single bars around matrixes
+* Example
+
+\(\begin{pmatrix}
+1 & 2 & 3 \\
+4 & 1 & 6
+\end{pmatrix}\)
+
+You can use pmatrix for [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] and bmatrix for matrices
+
+

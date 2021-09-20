@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       cab0d479-0668-4335-9527-f34649084eb8
+:END:
+#+title: omega notation
+
+* Defiention
+
+\(\Omega(g(n)) = {f(n):\) there exist constants \(c > 0, n_0 > 0 \)
+such that 0 ltx
+
+
+
+

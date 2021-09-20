@@ -1,0 +1,19 @@
+\:PROPERTIES:
+:ID:       df686638-bc09-480a-a816-8559e90ac297
+:END:
+#+title: Latex Import
+
+
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [letterpaper]
+#+OPTIONS: toc:t
+* article is the class used by latex
+* latex options defines the type of paper used
+* toc:t means table of contents enabled (change t to nil to diable)
+
+You can also make a custom setup file and link as such'
+
+#+SETUPFILE: ~/setupfile directory
+
+// is used for a new line as well
+

@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       bd7ce7f0-87d7-4592-ab19-3bc4a04bab53
+:END:
+#+title: permision bits (Mode)
+
+These are the access of the file in dired you can change them via M on
+a file
+r - stands for read
+w - stands for write
+x - stands for execite
+
+-u-g-o-
+
+
+u - user
+g - group
+o - everyone else
+
+Symbolic
+notation	Numeric
+notation	English
+----------	0000	no permissions
+-rwx------	0700	read, write, & execute only for owner
+-rwxrwx---	0770	read, write, & execute for owner and group
+-rwxrwxrwx	0777	read, write, & execute for owner, group and others
+---x--x--x	0111	execute
+--w--w--w-	0222	write
+--wx-wx-wx	0333	write & execute
+-r--r--r--	0444	read
+-r-xr-xr-x	0555	read & execute
+-rw-rw-rw-	0666	read & write
+-rwxr-----	0740	owner can read, write, & execute; group can only read; others have no permissions
+

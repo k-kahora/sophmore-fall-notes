@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d1a3b255-2583-4bf6-beb0-44f1f8577ba2
+:END:
+#+title: Algorithims HW_1
+
+Home work for [[id:5ab3eac4-522f-4270-bfd4-1f66e921a376][Analysis of Algorithims]]
+* Exercises
+* 1-4
+* 1-5
+* 1-6
+* 1-16
+* 1-17
+** [[id:2d7a59b4-076a-4c51-8f44-6bbbbe44dc30][Mathematical Induction]]
+** Base Case
+- Base Case n = 1
+*** The only such tree is an isolated node
+*** This is the n = 1 node and no edges. So, n - 1 = 0.
+** Induction Step
+*** When  \(K \geq 1\) then suppose that any tree with n vertices has \(k - 1\) edges.  Also every tree with \(k+1\) vertices has k edges. 
+* 1-18
+* 1-25

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6409a20d-3b5a-4ada-8d9f-8faeddef01a0
+:END:
+#+title: row vector
+
+A row vector is a vector that is arranged vertically

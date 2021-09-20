@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       123a8ade-8e81-4967-a00b-c2228743e100
+:END:
+#+title: consistency of linear systems
+

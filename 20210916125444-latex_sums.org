@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5147ad8b-3542-4144-8c63-b397f0091f70
+:END:
+#+title: latex sums
+
+\(\sum\limits{i=1}^{n}\)
+
+create a latex sum like this \sum\limits{i=1}^{n}
+
+n will be on top and i=1 will be on the bottom
+
+or \displaystyle \sum_{i=1}^{n}

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       eabaae0f-55bf-46b1-be44-6634f930a070
+:END:
+#+title: multiplexer
+
+
+Multiplexer takes 8 inputs and based on the selector value see image
+below.  

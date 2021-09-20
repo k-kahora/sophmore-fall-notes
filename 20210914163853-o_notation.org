@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7e673249-77f5-4ede-8d38-337d9610f094
+:END:
+#+title: O notation
+* Formal Defintion
+
+
+\(F(n) = O(g(n) \rightarrow \)    \(\exists c, n_0 > 0 : \forall n \geq n_0 F(n) \leq c * g(n) \)
+
+
+O-notation is an upper bound notation. It makes no sense to say that
+f(n) is at leasr O(n^2)
+
+We write \(f(n) = O(g(n)) \) if there exists such constants \(c > 0, n_0 >
+0 \) such that \(0  \leq f(n) \leq c*g(n) \) for all \( n \geq  n_0\)
+
+for example \( 2n^2 \in O(n^3)  \) fufills the defintion
+
+O-notation is an uper bound notation it makes no sense to say that
+f(n) is at least O(n^2)
+
+ltx

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d296d76f-1128-426a-a75b-4c1ebf433dbc
+:END:
+#+title: Org Mode Headings
+
+
+Just a list of useful org mode properties
+
+create a custom tab drawer with
+
+:DRAWER:
+
+Hello!!
+
+:END:

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       5c6ab6fd-fab9-4662-92f2-55ec29918af6
+:END:
+#+title: Sorting
+* Algorthims
+** Insertion
+:PROPERTIES:
+:ID:       be734d10-7191-43e0-99b9-719f8969d453
+:END:
+
+Runtime depends on input sorted input will be faster.   The input size
+is proprtional to runtime.  Seeking upper bounds is generally done
+because it gives us a gaurentee of the highest.
+*** How it works

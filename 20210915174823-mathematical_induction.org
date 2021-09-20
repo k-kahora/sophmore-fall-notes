@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2d7a59b4-076a-4c51-8f44-6bbbbe44dc30
+:END:
+#+title: Mathematical Induction
+
+
+[[id:33e9c2fa-0404-4251-9de8-17fa54cb27e8][Recursion]]
+
+* First thing is state what you are trying to prove
+
+* Base Case
+
+* Inductive Hypothesis
+
+* Inductive Step
+
+

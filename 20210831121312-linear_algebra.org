@@ -50,4 +50,9 @@ approach using a system of equations.  [[id:f022aa49-51d5-4c67-952d-13c4c8d2ca2b
 
 ** Revisiting existence and uniqueness
 
-*** Is the system consistent? That is, does there exist at least one soulution? If a soulution exists, is it unique.
+*** Is the system consistent? That is, does there exist at least one soulution? If a soulution exists, is it unique
+* Section 1.3
+** [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]]
+** Example
+Compute u - 2v where
+

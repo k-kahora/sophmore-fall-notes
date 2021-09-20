@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       eb264007-8059-4a25-aa3f-751fbcaa0998
+:END:
+#+title: Section 1.3
+
+Section 1.3 of [[id:7f212453-f8f6-4753-9451-796941ad524b][Linear Algebra]]
+
+* Learning Objectives 
+
+** Computer [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] Arithmetic
+
+** Relate system of linear equations to vector equations
+
+** Describe the relationship between [[id:21c8fa35-a2c4-4651-865e-4d3d58983474][linear combinations]], [[id:bc160c6f-6b75-42b8-8e23-05be54511a25][span]], and the [[id:123a8ade-8e81-4967-a00b-c2228743e100][consistency of linear systems]]
+
+** Describe the geometric interpretations of [[id:21c8fa35-a2c4-4651-865e-4d3d58983474][linear combinations]], [[id:bc160c6f-6b75-42b8-8e23-05be54511a25][span]], and [[id:123a8ade-8e81-4967-a00b-c2228743e100][consistency of linear systems]]
+
+* [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]]
+** Example
+
+Compute u-2v where
+\(u = \begin{pmatrix}
+1 \\ 0 \\ 3
+\end{pmatrix} v = \begin{pmatrix}
+2 \\ -3 \\ 3
+\end{pmatrix}
+\)
+
+
+
+
+
