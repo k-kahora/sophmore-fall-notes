@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       73352b17-e1d0-4335-918b-f332d0b48c5f
+:END:
+#+title: row vector rule
+
+
+See [[id:7f80a269-622f-4760-bfa4-bada84e27c30][Matrix Equations]]

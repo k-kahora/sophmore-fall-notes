@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       7f80a269-622f-4760-bfa4-bada84e27c30
+:END:
+#+title: Matrix Equations
+
+\(Ax = b\)
+
+A is the [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] and x is the [[id:4180700c-adde-43ae-9fef-251975521d8e][vector]]
+
+| *  | *  | *  |
+| v1 | v2 | v2 |
+| *  | *  | *  |
+* Definition
+
+Let A be a m x n matrix with columns v1, v2, v3 ... etc
+
+\(A  \begin{pmatrix} | & |  & | \\ v1 & v2 & v3 \\ | & | & | 
+\end{pmatrix}\)
+
+The product of A with a vector in \(R^n\) is the [[id:21c8fa35-a2c4-4651-865e-4d3d58983474][linear combination]]
+
+\(Ax =  \begin{pmatrix} | & |  & | \\ v1 & v2 & v3 \\ | & | & | 
+\end{pmatrix} * \begin{pmatrix} x_1 \\ x_2 \\ x_3
+\\ . \\ . \\ . \\ x_n \end{pmatrix} = x_1v_1 + x_2v_2+...+x_nv_n\)
+
+This [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] is in \(R^m\)
+
+In order for Ax to make sense, the number of entries of x has to be the
+same as the numbe rof columns.
+
+The resulting vector will have the same number of entries as the
+number of rows in A
+
+This is also known as [[id:73352b17-e1d0-4335-918b-f332d0b48c5f][row vector rule]]

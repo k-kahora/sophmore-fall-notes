@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9221f5ea-b6fc-46f9-9bf9-a729ac0a658a
+:END:
+#+title: consistency of matrix equations
+
+Example
+
+If
+
+\(A = \begin{pmatrix} 2 & 3 & 1 \\ -2 & -1 & 0 \\ 5 & 8 & 2
+\end{pmatrix}, x = \begin{pmatrix} x_1 \\ x_2 \\ x_3 \end{pmatrix}\)
+and b = \(\begin{pmatrix}
+0 \\ 0 \\ 0
+\end{pmatrix}\) then write \(Ax = b\) as a vector
+
+\(x = x_1\begin{pmatrix} 2 \\ -2 \\ 4 \end{pmatrix} +
+x_2 \begin{pmatrix} 3 \\ -1 \\ 8 \end{pmatrix} + x_3 \begin{pmatrix} 1
+\\ 0 \\ 2 \end{pmatrix}\)
+
+
+

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       896db774-e4a5-4ebb-846b-dd2333119193
+:END:
+#+title: pivots
+

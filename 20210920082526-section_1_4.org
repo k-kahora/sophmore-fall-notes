@@ -2,4 +2,12 @@
 :ID:       c31be495-161e-423a-bef5-67807024fae6
 :END:
 #+title: Section 1.4
+* Learning Objectives
+** Compute matrix vector products
+** Relate matrix equations to vector quantities/systems of linear equations.
+** Determine consistency of matrix equations to [[id:896db774-e4a5-4ebb-846b-dd2333119193][pivots]], [[id:08c85cd2-5dd5-4afe-a582-66d9c49d973c][spans of columns]], and [[id:21c8fa35-a2c4-4651-865e-4d3d58983474][linear combinations]]
+* [[id:7f80a269-622f-4760-bfa4-bada84e27c30][Matrix Equations]]
+* Theorem
+\(1. A(u + v) = Au + Av \\2. A(cu) = c(Au)\)
+* Consi
 

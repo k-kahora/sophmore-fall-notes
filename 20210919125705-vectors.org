@@ -2,7 +2,7 @@
 :ID:       4180700c-adde-43ae-9fef-251975521d8e
 :END:
 #+title: Vectors
-* Definition: A vector is an ordered list of numbers.  We normally name vecrirs using lowercase, boldface letters or letter with arrows attached.  These are [[id:7f212453-f8f6-4753-9451-796941ad524b][Linear Algebra]] vectors
+* Definition: A vector is an ordered list of numbers.  We normally name vectors using lowercase, boldface letters or letter with arrows attached.  These are [[id:7f212453-f8f6-4753-9451-796941ad524b][Linear Algebra]] vectors
 
 
 If the vector is arranged vertically we call it a [[id:ae5cde4f-da28-4636-8fa6-0a1421da99bc][column vector]] if
