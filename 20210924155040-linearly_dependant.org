@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       4921cde8-8c1c-4062-af63-79db9a99593e
+:END:
+#+title: linearly dependant
+* Formal definition
+
+the set \(S = \{v_1 . . . v_p\}\) is [[id:4921cde8-8c1c-4062-af63-79db9a99593e][linearly dependant]] if there exists
+weights such that \(c_1 . . . c_p\) \that are all not zero that such
+that \(c_1v_1 + c_2v_2 + . . . + c_pv_p = 0\)
+
+Example
+
+\(\begin{bmatrix} 1 \\ - 4 \end{bmatrix} + \begin{bmatrix} -1 \\ 4
+\end{bmatrix} = 0\)
+
+in [[id:04061155-3cb2-4802-bd96-869fa1904bea][echelon]] form you will end up with \(x_1 - x_2 = 0 \)
+
+\(\begin{pmatrix}
+1 & -1 & 0 \\ 0 & 0 & 0
+\end{pmatrix}\)
+
+there is a [[id:5889cde1-0a54-4012-be98-6e5b601b69eb][free variable]] x2 as it doesn't have a pivot and x1 can be
+written in terms of x2 resulting in a non [[id:30d8a159-cdd6-4338-952c-e6205a884b23][non trivial solution]]
+* Tip
+
+If a set \(S = \{v_1 . . . v_p \}\) in \(R^n\) contains the [[id:a79dccc0-9d28-4265-8f7d-8f0b539c798d][zero vector]] then the set is [[id:4921cde8-8c1c-4062-af63-79db9a99593e][linearly dependant]] a

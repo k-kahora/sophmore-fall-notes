@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       30d8a159-cdd6-4338-952c-e6205a884b23
+:END:
+#+title: non trivial solution
+

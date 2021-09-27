@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       709eb5df-7234-4be5-bc85-49ff8fda76ed
+:END:
+#+title: linearly independant
+
+An indexed set of vectors is linearly independant if the vector
+equation equals 0.
+
+For example
+\(\begin{pmatrix} 7 \\ 0 \\ 0 \end{pmatrix}  \begin{pmatrix} 8 \\ 3
+\\ -12 \end{pmatrix} \begin{pmatrix} 7 \\ 12 \\ 12 \end{pmatrix}\)
+
+in [[id:04061155-3cb2-4802-bd96-869fa1904bea][echelon]] form would be
+
+\(\begin{pmatrix}
+7 & 8 & 7 \\ 0 & 1 & 4 \\ 0 & 0 & 12
+\end{pmatrix} = \begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}\)
+
+There are no free variables therefore its [[id:709eb5df-7234-4be5-bc85-49ff8fda76ed][linearly independant]]
+
+and only has the [[id:75166794-370e-4a59-81cf-01189a2d1893][trivial solution]]
+
+The other side of the coin is [[id:4921cde8-8c1c-4062-af63-79db9a99593e][linearly dependant]]
+* Tips
+
+A set of two [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] is [[id:4921cde8-8c1c-4062-af63-79db9a99593e][linearly dependant]] if at least one of the
+[[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] is a multiple of the other
+
+for example
+
+\(\begin{bmatrix}
+8 \\ -16 \\ 4 
+\end{bmatrix}\)
+
+\(\begin{bmatrix}
+-2 \\ 4 \\ 1
+\end{bmatrix}\)
+
+these are not a multiple of each other so there [[id:709eb5df-7234-4be5-bc85-49ff8fda76ed][linearly independant]]

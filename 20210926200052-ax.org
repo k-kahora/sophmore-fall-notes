@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c33e5265-775b-46a9-a8fd-59d72df66e25
+:END:
+#+title: Ax = b
+
+The [[id:4180700c-adde-43ae-9fef-251975521d8e][vector]] b is the [[id:ad5c8c9c-5d80-4990-bc8d-a30c0ba8676b][plane]]
+       

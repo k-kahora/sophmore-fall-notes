@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a79dccc0-9d28-4265-8f7d-8f0b539c798d
+:END:
+#+title: zero vector
+
+A [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] of all zeros
+
+\(\begin{bmatrix}
+0 \\ 0 \\ 0 \\ 0
+\end{bmatrix}\)
+
+

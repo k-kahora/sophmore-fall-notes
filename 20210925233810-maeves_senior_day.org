@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       bba6e0c0-8c93-43e0-a368-e641579b9f8b
+:END:
+#+title: MAeves senior day
+
+
+
+Maeve is having a great [[id:7d165f67-cb95-410c-b581-6fab26cf4097][senior day]].
+
+Maeve likes [[id:a26aca8c-2d5f-4fda-8341-283a800afdb4][korea]]

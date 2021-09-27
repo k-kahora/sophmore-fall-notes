@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       75166794-370e-4a59-81cf-01189a2d1893
+:END:
+#+title: trivial solution
+

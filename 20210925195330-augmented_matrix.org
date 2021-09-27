@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b9f83973-b253-4dde-a930-6bbfe0b6846a
+:END:
+#+title: augmented matrix
+
+
+The [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] in augmented form has the soulition to the equation in the
+last column.
+
+for example
+
+\(x_1 + 2 x_2 + 8x_3 = 9 \)
+\(x_1 + 0x_2 + 1x_3 = 7\)
+
+would be
+
+\(\begin{pmatrix}
+1 & 2 & 8 & 9 \\ 1 & 0 & 1 & 7
+\end{pmatrix}\)
+

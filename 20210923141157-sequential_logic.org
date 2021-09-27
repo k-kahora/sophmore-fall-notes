@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       84a7271b-39b4-4bfe-b6ea-e26a0c0be804
+:END:
+#+title: Sequential Logic
+* A circuits output depends on both the currennt set of inputs as well as the current state
+* What would you need to input and output a four but counter
+
+Part of [[id:97dba05a-fc56-4929-a1bb-11f25eb9ee91][Computer Architecture]]
+

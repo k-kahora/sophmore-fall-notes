@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c3f93d79-5cd2-4b82-9422-da653493ac29
+:END:
+#+title: Existence and Uniqueness Theorem
+
+
+This theroum states that a linear system
+is[[ id:9221f5ea-b6fc-46f9-9bf9-a729ac0a658a][ consistent]] if and only if
+the right most column of the [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] in [[id:b9f83973-b253-4dde-a930-6bbfe0b6846a][augmented matrix]] form has no
+row of the form
+
+\(\begin{bmatrix} 0 & ... & 0 & b \end{bmatrix}\)
+
+with b as non zero

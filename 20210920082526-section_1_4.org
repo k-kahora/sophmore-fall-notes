@@ -9,5 +9,5 @@
 * [[id:7f80a269-622f-4760-bfa4-bada84e27c30][Matrix Equations]]
 * Theorem
 \(1. A(u + v) = Au + Av \\2. A(cu) = c(Au)\)
-* Consi
-
+* [[id:9221f5ea-b6fc-46f9-9bf9-a729ac0a658a][consistency of matrix equations]] 
+       

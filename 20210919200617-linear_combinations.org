@@ -3,3 +3,28 @@
 :END:
 #+title: linear combinations
 
+Linear combination is any time your scaling two vectors and adding
+them
+
+\(ai + bj\)
+
+The [[id:bc160c6f-6b75-42b8-8e23-05be54511a25][span]] of i and j is the set of all there [[id:21c8fa35-a2c4-4651-865e-4d3d58983474][linear combinations]]
+* Ax as a [[id:21c8fa35-a2c4-4651-865e-4d3d58983474][linear combinations]]
+
+if A is a m x n matrix, with columns \(a_1...,a_n\) and if x is in
+\(R^n\), then the product of A by x is is Ax.  Which is the linear
+combination of the columns of A using the same entries in x (see
+below)
+
+- Ax is only defined as the [[id:21c8fa35-a2c4-4651-865e-4d3d58983474][linear combination]] if the number of
+  Columns of A equal the number of entries in x
+
+  \(Ax  = \begin{bmatrix} a_1 & a_2 & ... & a_n
+  \end{bmatrix} \begin{bmatrix} x_1 \\ ... \\ x_n  \end{bmatrix} =
+  x_1a_1 + x_2a_2 + ... + x_na_n\)
+
+  See [[id:73352b17-e1d0-4335-918b-f332d0b48c5f][row vector rule]] for solving purposes 
+
+  Also see [[id:c33e5265-775b-46a9-a8fd-59d72df66e25][Ax]]
+
+  
