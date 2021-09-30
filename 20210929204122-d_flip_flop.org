@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       7f1b4b2f-5e7e-4294-989a-b05e23ed94c4
+:END:
+#+title: D - Flip Flop
+* The D-Flip Flop is used mostly
+D stands for data this eliminates the need for two seperate inputs for
+set and reset.

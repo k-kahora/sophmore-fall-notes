@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0024567c-2f66-44f4-b84d-98c68aca17cf
+:END:
+#+title: Propigation Delay
+

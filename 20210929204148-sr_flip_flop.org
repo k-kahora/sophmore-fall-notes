@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       8da58215-4202-409f-a376-1d877c063eba
+:END:
+#+title: SR - Flip Flop
+
+#+attr_org: :width 300px
+#+attr_latex: :width 100px
+#+attr_html: :width 500px
+#+CAPTION: SR Flip Flop
+[[~/RoamNotes/Roam Images/SR_FlipFlop.png]]
+
+| Qt | St | Rt |      Q(t+1) |
+|  0 |  0 |  0 |           0 |
+|  0 |  0 |  1 |           0 |
+|  0 |  1 |  0 |           1 |
+|  0 |  1 |  1 | Not Allowed |
+|  1 |  0 |  0 |           1 |
+|  1 |  0 |  1 |           0 |
+|  1 |  1 |  0 |           1 |
+|  1 |  1 |  1 | Not Allowed |
+* Notes :
+Qt means state of Q and current time T
+Q(t + 1) means the state of Q at the next time (t+1)
+Qt is current state
+Q(t + 1) is the next state

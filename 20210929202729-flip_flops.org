@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fa233da4-f800-4b83-b5a6-62d681005cb9
+:END:
+#+title: Flip Flops
+* A flip flop is a an arrangement of logic gates that maintains a stable output even after the inputs are made inactive
+
+- This also means that the output of a flip flop is determined by the
+  current input and the state.  (Past history is also used)
+
+- Flip flop is used to store a single bit of information
+* Type of flip flops
+
+- Most design work today use D flip flop
+  
+** [[id:8da58215-4202-409f-a376-1d877c063eba][SR - Flip Flop]]
+** [[id:6e26a18e-5463-4099-a4ed-63e6764bfae1][JK - Flip Flop]]
+** [[id:12c557cd-49dd-43f2-ae0d-1b34bb1dd847][Toggle - Flip Flop]]
+** [[id:7f1b4b2f-5e7e-4294-989a-b05e23ed94c4][D - Flip Flop]]
+
+A flip flop can be made from [[id:bb037266-7f86-43ea-a511-0e706f3ff7b2][NOR gate]]s
+* Flip Flops are used to store [[id:689bab54-c1c3-48bb-8a56-50683110a4b5][Memory]]    
+

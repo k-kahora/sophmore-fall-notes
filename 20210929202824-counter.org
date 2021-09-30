@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       14b19164-1fb5-4336-8161-a859ac8a84bb
+:END:
+#+title: Counter
+
+#+attr_org: :width 500px
+#+attr_latex: :width 100px
+#+CAPTION: An example of a counter
+[[~/RoamNotes/Roam Images/Counter.png]]
+

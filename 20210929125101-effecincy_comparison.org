@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6ffcbce2-da47-409a-9464-f4129f03aef4
+:END:
+#+title: Efficiency Comparison
+* Cost of hardware
+* Number of gates
+* Number of levels ([[id:0024567c-2f66-44f4-b84d-98c68aca17cf][Propagation Delay]])
+
+[[id:34b8593f-8fd4-4757-9677-d22c0cae7999][Andrew]]

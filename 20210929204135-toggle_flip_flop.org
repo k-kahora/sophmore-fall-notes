@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       12c557cd-49dd-43f2-ae0d-1b34bb1dd847
+:END:
+#+title: Toggle - Flip Flop
+
+All this does is see if the the value or state should change
+
+| T | Q+ |
+| 0 | Q  |
+| 1 | Q' |
+

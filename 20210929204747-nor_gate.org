@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bb037266-7f86-43ea-a511-0e706f3ff7b2
+:END:
+#+title: NOR gate
+
+#+attr_org: :width 500px
+#+attr_latex: :width 500px
+#+arrt_html: :width 500px
+#+CAPTION: NOR Gate there is prop delay
+[[~/RoamNotes/Roam Images/NOR_gate.png]]
+
