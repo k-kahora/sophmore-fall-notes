@@ -13,9 +13,9 @@ from [[id:97dba05a-fc56-4929-a1bb-11f25eb9ee91][Computer Architecture]]
 *** Number Systems and artithmatic
 *** Using simulation ([[id:3eeb462e-b259-4065-bbb5-34e072b8449d][LogicWorks]])
 * Week 3
-** Combinational Devices and Sequential Logic
-** MSI devices, Registers,
-** CountersSequential logic
+** Combinational Devices and [[id:84a7271b-39b4-4bfe-b6ea-e26a0c0be804][Sequential Logic]]
+** MSI devices, [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]],
+** Counters Sequential logic
 * Week 4
 ** Implementing Sequential Design, Integrating Control, Supporting Datapath
 ** Von Neumann Architecture

@@ -4,3 +4,7 @@
 #+title: Memory
 
 Heiarchy of memeory (access time and space)
+
+[[id:fa233da4-f800-4b83-b5a6-62d681005cb9][Flip Flops]] can be used in parallel to store multiple bits
+
+

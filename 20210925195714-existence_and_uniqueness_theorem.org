@@ -12,3 +12,5 @@ row of the form
 \(\begin{bmatrix} 0 & ... & 0 & b \end{bmatrix}\)
 
 with b as non zero
+
+
