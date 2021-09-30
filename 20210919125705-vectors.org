@@ -7,3 +7,4 @@
 
 If the vector is arranged vertically we call it a [[id:ae5cde4f-da28-4636-8fa6-0a1421da99bc][column vector]] if
 horizontalk we call it a [[id:6409a20d-3b5a-4ada-8d9f-8faeddef01a0][row vector]] 
+

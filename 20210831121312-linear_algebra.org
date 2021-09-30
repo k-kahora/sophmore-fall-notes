@@ -56,7 +56,11 @@ approach using a system of equations.  [[id:f022aa49-51d5-4c67-952d-13c4c8d2ca2b
 ** Example
 Compute u - 2v where
 <<<<<<< HEAD
+<<<<<<< HEAD
 * [[id:c31be495-161e-423a-bef5-67807024fae6][Section 1.4]]
+=======
+* Section 1.4
+>>>>>>> 5f2db17c6cf67c67cdf5d44f8b05ab804a7356f5
 =======
 * Section 1.4
 >>>>>>> 5f2db17c6cf67c67cdf5d44f8b05ab804a7356f5

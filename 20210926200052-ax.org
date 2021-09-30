@@ -2,6 +2,12 @@
 :ID:       c33e5265-775b-46a9-a8fd-59d72df66e25
 :END:
 #+title: Ax = b
-
 The [[id:4180700c-adde-43ae-9fef-251975521d8e][vector]] b is the [[id:ad5c8c9c-5d80-4990-bc8d-a30c0ba8676b][plane]]
-       
+* These statements are logically equivalent
+** For each b in ​\(R^m\), the equation Ax=b has a solution.
+** Each b in \(R^m\) is a [[id:21c8fa35-a2c4-4651-865e-4d3d58983474][linear combination]] of the columns of A
+** The columns of A [[id:bc160c6f-6b75-42b8-8e23-05be54511a25][span]] \(R^m\)
+** A has a pivot position in every row
+
+
+

@@ -30,3 +30,5 @@ so \(0*\begin{pmatrix} 6 \\ 5 \\ -9  \end{pmatrix} + 0*\begin{pmatrix}
 
 This is how you find span constantly subsituong in more and more
 scalers
+
+
