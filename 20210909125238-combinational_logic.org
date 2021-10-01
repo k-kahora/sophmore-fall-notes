@@ -3,7 +3,7 @@
 :END:
 #+title: Combinational Logic
 
-Combinational logic uses a [[id:8f30a3f9-e9af-4ddb-a071-c9689cf09737][Combinational Device]]
+Combinational logic uses a [[id:a56ea596-2b6c-4d87-8236-49b9a61e2c43][Combinational Device]]
 
 Combinational Logic is a using binary to combine gates to allow a
 truth table to work through a circuit.

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a56ea596-2b6c-4d87-8236-49b9a61e2c43
+:END:
+#+title: Combinational Device
+* [[id:4a652fec-8f4f-4942-82f7-c344be9a59c6][MUX]]
+* [[id:9af9e913-fd7e-4888-949e-38ae66113510][Decoder]]
+* [[id:31acc4e3-d2d0-4b4e-8688-6c09a8628fe4][Adder]]
