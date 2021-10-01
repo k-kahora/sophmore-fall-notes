@@ -1,11 +1,12 @@
 :PROPERTIES:
 :ID:       17439a36-432f-45ec-b01a-beb5bac9fd25
 :END:
-#+title: big O notaion
+#+title: big O notation
 
 
-Upper bound notation
 * Formal definition
+- \(f(n) = O(g(n)) \) if there are positive constants \(n_0\) and
+  \(c\)  such that to the right of \(n_0\), the value of \(f(n)\)
+  always lies on or above \(c * g(n)\)
 
 
-\(\pi \beta )\ 
