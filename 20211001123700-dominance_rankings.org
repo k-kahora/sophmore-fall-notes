@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       91bf85d4-994c-42a3-8b61-301eb4aeaba1
+:END:
+#+title: Dominance Rankings
+
+
+\(\displaystyle n! >> c^n >> n^3 >> n^{1+\epsilon} >> n\log n >> n >>
+\sqrt{n} >> \log^2n >> \log n / \log\log n >> \log \log n >> alpha (n) >> 1\)
+
+
+Used for [[id:5ab3eac4-522f-4270-bfd4-1f66e921a376][Analysis of Algorithms]] and seeing which functions dominate
+the others
+
+#+attr_org: :width 600px
+#+attr_latex: :width 200px
+#+attr_html: :width 400px
+#+CAPTION: All the rankings used in this course
+[[~\RoamNotes\Roam Images\Dom_Rank.png]]
