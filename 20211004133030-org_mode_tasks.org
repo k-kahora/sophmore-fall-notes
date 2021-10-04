@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       c7ca8113-7c20-422b-b6aa-26213c9640ae
+:END:
+#+title: org mode tasks
+
+Org tasks have a lot of quirks about them.  Here's an interesting quirk
+I found about them.  Use [%] or [/] to divide sub tasks
+* Party [42%]
+** DONE Pizza
+CLOSED: [2021-10-04 Mon 13:35]
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2021-10-04 Mon 13:35]
+:END:
+** TODO Presents
+** TODO Guests
+** TODO Candy
+** DONE Games [1/3]
+CLOSED: [2021-10-04 Mon 13:35]
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2021-10-04 Mon 13:35]
+:END:
+*** TODO Monopoly
+*** TODO Basketball
+*** DONE Lazer Tag
+CLOSED: [2021-10-04 Mon 13:35]
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2021-10-04 Mon 13:35]
+:END:
+** TODO Table
+** DONE Cake
+CLOSED: [2021-10-04 Mon 13:35]
+:LOGBOOK:
+- State "DONE"       from "NEXT"       [2021-10-04 Mon 13:35]
+:END:

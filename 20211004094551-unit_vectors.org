@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       2a5c9f3e-cb6e-4456-a714-dda97cb1ebb8
+:END:
+#+title: Unit vectors
+* I and J as [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]]
+
+\(\hat{i} = \begin{bmatrix} 1 \\ 0  \end{bmatrix}  \hat{j}
+= \begin{bmatrix} 0 \\ 1  \end{bmatrix} \)
+You can represent any vector in \(R^2\) with these two vectors
+
+They form the [[id:121c6ed6-35a4-4cc6-8ebc-cdee513330bc][basis]]
+

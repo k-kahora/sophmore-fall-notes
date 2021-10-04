@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       afc7d700-14eb-4e02-8320-8ece0a3ef153
+:END:
+#+title: colinear
+
+Colinear means they are parallel or have the same slope 
