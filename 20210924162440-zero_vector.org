@@ -10,3 +10,6 @@ A [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] of all zeros
 \end{bmatrix}\)
 
 
+\(span(\vec{0}) = c*\begin{bmatrix} 0 \\ 0  \end{bmatrix}  \)
+
+The [[id:bc160c6f-6b75-42b8-8e23-05be54511a25][span]] of the zero vector is the zero vector

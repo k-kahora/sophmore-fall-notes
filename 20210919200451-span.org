@@ -31,4 +31,18 @@ so \(0*\begin{pmatrix} 6 \\ 5 \\ -9  \end{pmatrix} + 0*\begin{pmatrix}
 This is how you find span constantly subsituong in more and more
 scalers
 
+in these example the span is all vectors
+
+The span of the [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] A and B is all of R 2 or \(Span(\vec{a},
+\vec{b}) = R^2\)
+* Another example
+
+\(\vec{a} = \begin{bmatrix} 2 \\ 2  \end{bmatrix} +
+\vec{b} \begin{bmatrix} -2 \\ -2  \end{bmatrix}  \)
+
+The span of the a and b is the line that a and b lie on the vector is
+not all of R2
+
+Span of [[id:a79dccc0-9d28-4265-8f7d-8f0b539c798d][zero vector]] is the [[id:a79dccc0-9d28-4265-8f7d-8f0b539c798d][zero vector]]
+
 
