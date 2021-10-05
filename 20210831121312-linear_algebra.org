@@ -5,7 +5,7 @@
 
 [[id:a5f60077-5ba8-432c-9ad2-671f77b271d1][Classes]]
 
-* Linear Reasources
+* Linear Resources
 * Section 1.1
 :PROPERTIES:
 :ID:       e3da2360-3280-4399-bf67-41a184c69bd3

@@ -19,3 +19,4 @@ Multiply all entries in a row by a non zero constant
 :ID:       982e6077-78db-4724-bb2d-ac5edde6d946
 :END:
 Interchange two rows
+All these do is is [[id:6e868369-86ad-437c-b143-0c46899df8cc][row reduce]]
