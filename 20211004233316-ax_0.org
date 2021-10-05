@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       9324a2d2-ed21-418d-8a84-d6c53f794828
+:END:
+#+title: Ax = 0
+
+Ax = 0 is always solvable threes always the [[id:75166794-370e-4a59-81cf-01189a2d1893][trivial solution]] 0.
+
+This means were interested in the non trivial solutions.
+
+Thus the Homogeneous System Ax = 0 has non trivial solutions if and
+only if the system has [[id:5889cde1-0a54-4012-be98-6e5b601b69eb][free variable]].
