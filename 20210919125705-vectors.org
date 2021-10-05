@@ -6,5 +6,22 @@
 
 
 If the vector is arranged vertically we call it a [[id:ae5cde4f-da28-4636-8fa6-0a1421da99bc][column vector]] if
-horizontalk we call it a [[id:6409a20d-3b5a-4ada-8d9f-8faeddef01a0][row vector]] 
+horizontalk we call it a [[id:6409a20d-3b5a-4ada-8d9f-8faeddef01a0][row vector]]
 
+a commonly used vector is the [[id:a79dccc0-9d28-4265-8f7d-8f0b539c798d][zero vector]] 
+* Graphing Vectors
+** The first number in the Vector is for the y axis and the second number is for the x axis and the third number is for the z axis.
+
+
+* Applications
+** In physics a vector can encode (x,y,z) coordinates of an object, or the direction and size of a force applied to an object. 
+** In [[id:cfe3039f-5cb8-4b75-a48a-2df729ba0d5e][computer science]] a vector can encode colors by their red, green and blue components.
+** In fiance a vector can represent a portfolio of many stocks
+** In biology a vector can represent different levels of protein expression in an organism
+* Geometric Interpretation
+** *A Vector with n components is from space \(R^n\)*
+*** Example
+\(u = \begin{pmatrix} 2 \\ 1  \endp{matrix} \)
+* Vector Arithmetic
+** [[id:b8e2c682-9b16-45e2-91a6-24e86fd55746][Vector Addition]]
+** [[id:92d4a6db-a274-45dc-8e41-54862b5586ee][Vector Multiplication]]
