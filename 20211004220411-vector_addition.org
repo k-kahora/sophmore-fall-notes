@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b8e2c682-9b16-45e2-91a6-24e86fd55746
+:END:
+#+title: Vector Addition
+If two [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] are of the same \(R^n\) then they can be added
+component wise.  If \(u = \begin{pmatrix} 2 \\ 1 \end{pmatrix} \) and
+\(v = \begin{pmatrix} -1 \\ 2 \end{pmatrix}\) then \(u + v
+= \begin{pmatrix} 1 \\ 3 \end{pmatrix} 
+\)
+
+
+#+attr_org: :width 400px
+#+attr_latex: :width 100px
+#+attr_html: :width 100px
+#+CAPTION: Helpful visual
+[[~/RoamNotes/Roam Images/Vector_Addition.PNG]]
+

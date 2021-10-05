@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ff35fac9-1bbd-47c7-822d-691598643044
+:END:
+#+title: coefficient matrix
+
+A [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] where the last column is not the answer to the equation.

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f84d99cc-8a55-43b9-8612-c3a048ec9e4d
+:END:
+#+title: reduced row echelon form
+
