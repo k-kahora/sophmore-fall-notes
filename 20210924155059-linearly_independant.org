@@ -3,6 +3,12 @@
 :END:
 #+title: linearly independant
 
+
+* Good definition
+If all [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] add to the [[id:bc160c6f-6b75-42b8-8e23-05be54511a25][span]] they are [[id:709eb5df-7234-4be5-bc85-49ff8fda76ed][linearly independant]]!!!
+
+* Notes
+
 An indexed set of vectors is linearly independant if the vector
 equation equals 0.
 

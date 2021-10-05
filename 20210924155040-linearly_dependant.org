@@ -21,6 +21,11 @@ in [[id:04061155-3cb2-4802-bd96-869fa1904bea][echelon]] form you will end up wit
 
 there is a [[id:5889cde1-0a54-4012-be98-6e5b601b69eb][free variable]] x2 as it doesn't have a pivot and x1 can be
 written in terms of x2 resulting in a non [[id:30d8a159-cdd6-4338-952c-e6205a884b23][non trivial solution]]
+* Good definition
+When two vectors line up(Are [[id:afc7d700-14eb-4e02-8320-8ece0a3ef153][colinear]]) one can be removed as its
+redundant.  One of the vectors can represented as a [[id:21c8fa35-a2c4-4651-865e-4d3d58983474][linear
+combinations]] of the other as its already in the [[id:bc160c6f-6b75-42b8-8e23-05be54511a25][span]] this is the
+definition of linear dependence. 
 * Tip
 
 If a set \(S = \{v_1 . . . v_p \}\) in \(R^n\) contains the [[id:a79dccc0-9d28-4265-8f7d-8f0b539c798d][zero vector]] then the set is [[id:4921cde8-8c1c-4062-af63-79db9a99593e][linearly dependant]] a

@@ -2,4 +2,6 @@
 :ID:       121c6ed6-35a4-4cc6-8ebc-cdee513330bc
 :END:
 #+title: basis
-
+* Technical Definition
+The basis of vector space is a set of [[id:709eb5df-7234-4be5-bc85-49ff8fda76ed][linearly independant]]
+[[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] that [[id:bc160c6f-6b75-42b8-8e23-05be54511a25][span]] the full space

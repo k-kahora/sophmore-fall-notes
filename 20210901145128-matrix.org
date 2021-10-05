@@ -3,3 +3,4 @@
 :END:
 #+title: matrix
 
+Two types of matrix so far [[id:b9f83973-b253-4dde-a930-6bbfe0b6846a][augmented matrix]] and [[id:ff35fac9-1bbd-47c7-822d-691598643044][coefficient matrix]].

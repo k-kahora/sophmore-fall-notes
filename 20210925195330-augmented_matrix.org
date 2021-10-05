@@ -4,7 +4,7 @@
 #+title: augmented matrix
 
 
-The [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] in augmented form has the soulition to the equation in the
+The [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] in augmented form has the solution to the equation in the
 last column.
 
 for example
