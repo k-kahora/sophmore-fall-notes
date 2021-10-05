@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       92d4a6db-a274-45dc-8e41-54862b5586ee
+:END:
+#+title: Vector Multiplication
+
+
+if \(u = \begin{pmatrix} 2 \\ 1 \end{pmatrix} \) and \(c = -2\) then
+
+\(cu = \begin{pmatrix} -4 \\ -2 \end{pmatrix} \)
+
+#+attr_org: :width 400px
+#+attr_latex: :width 100px
+#+attr_html: :width 100px
+#+CAPTION: Vector Scaling Visual
+[[~/RoamNotes/Roam Images/Vector_Scaling.PNG]]
+

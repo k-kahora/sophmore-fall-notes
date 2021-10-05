@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e980c332-9372-4a17-89eb-85127d42a7ee
+:END:
+#+title: Linear Transformation
+* Transformation
+A fancy term for a function
+Take a [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] and output a [[id:4180700c-adde-43ae-9fef-251975521d8e][Vector]]
+Transformation implies movement
+When thinking of a transformation of Vectors thin of points.
+Maybe think about the gird in 2 dimensions
+* Linear
+- All lines must remain lines without getting curved and the orgin
+  must stay in place.
+- Parallel and evenly spaced
+* Examples
+- \(\vec{v} = -1\hat{i} + 2\hat{j}\) 
+- Transformed \(\vec{v}\) \(= -1(\) Transformed \( \hat{i}) + \) \(2(\) Transformed \( \hat{i})\)
+- \(=-1 \begin{bmatrix} 1 \\ -2 \end{bmatrix} + 2 \begin{bmatrix} 3
+  \\ 0 \end{bmatrix} \) this is assuming the transformation moved the
+  [[id:121c6ed6-35a4-4cc6-8ebc-cdee513330bc][basis]] Vectors to those positions

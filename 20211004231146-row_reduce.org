@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6e868369-86ad-437c-b143-0c46899df8cc
+:END:
+#+title: row reduce
+
+One can row reduce using [[id:f022aa49-51d5-4c67-952d-13c4c8d2ca2b][elementary row operations]] to determine if a
+system is [[id:123a8ade-8e81-4967-a00b-c2228743e100][consistent]] 
+
+First reduce to [[id:04061155-3cb2-4802-bd96-869fa1904bea][echelon]] form then [[id:f84d99cc-8a55-43b9-8612-c3a048ec9e4d][reduced row echelon form]]
