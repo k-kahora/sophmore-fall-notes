@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       34ba7b8e-b411-451c-a0c4-c8be5bbd05cf
+:END:
+#+title: onto
+* Definition
+
+- A [[id:e980c332-9372-4a17-89eb-85127d42a7ee][Linear Transformation]] maps \( R^n\) onto \(R^m\) if and only if
+  the columns of A [[id:bc160c6f-6b75-42b8-8e23-05be54511a25][span]] \(R^m\).
+- "A has a pivot position in every​ row" and "The columns of A span
+  \(R^m\)" are logically equivalent.  

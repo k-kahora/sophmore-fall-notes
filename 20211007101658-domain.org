@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e6b1bc54-5f5f-4f10-93ec-ff1d225397e8
+:END:
+#+title: domain
+

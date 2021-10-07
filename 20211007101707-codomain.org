@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f7c2d18f-ebed-400f-90d5-d726ecb08483
+:END:
+#+title: codomain
+

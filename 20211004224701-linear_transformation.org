@@ -2,6 +2,17 @@
 :ID:       e980c332-9372-4a17-89eb-85127d42a7ee
 :END:
 #+title: Linear Transformation
+
+
+* Formal Definition
+
+* Properties
+A linear transformation (or a linear map) is a function
+A linear transformation is multiplying a [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] by a [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]]
+
+Take [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] x in the [[id:e6b1bc54-5f5f-4f10-93ec-ff1d225397e8][domain]] and multiply it by [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] b in the
+[[id:f7c2d18f-ebed-400f-90d5-d726ecb08483][codomain]].  \(R^m \) is the domain and \(R^n\) is the codomain of a \(mxn\) matrix
+
 * Transformation
 A fancy term for a function
 Take a [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] and output a [[id:4180700c-adde-43ae-9fef-251975521d8e][Vector]]
@@ -12,9 +23,32 @@ Maybe think about the gird in 2 dimensions
 - All lines must remain lines without getting curved and the orgin
   must stay in place.
 - Parallel and evenly spaced
+
+*A function is linear when*
+
+1) \(T(u + v) = T(u) + T(v) \)
+2) \(T(cu) = cT(u)\)
+
+* Important
+Ax = T(x)
+Ax = b :: T(x) = b
+
+T(0) = 0
+
 * Examples
 - \(\vec{v} = -1\hat{i} + 2\hat{j}\) 
 - Transformed \(\vec{v}\) \(= -1(\) Transformed \( \hat{i}) + \) \(2(\) Transformed \( \hat{i})\)
 - \(=-1 \begin{bmatrix} 1 \\ -2 \end{bmatrix} + 2 \begin{bmatrix} 3
   \\ 0 \end{bmatrix} \) this is assuming the transformation moved the
   [[id:121c6ed6-35a4-4cc6-8ebc-cdee513330bc][basis]] Vectors to those positions
+
+* Geometrically
+
+
+\(T(x) = Ax\) where \(A = \begin{bmatrix} -1 & 0 \\ 0 & -1
+\end{bmatrix} \) what does A do to an vector \(\begin{bmatrix} x \\ y
+\end{bmatrix} \)
+
+The answer is \(\begin{bmatrix} -x \\ y \end{bmatrix}\) 
+
+A transformation can either be [[id:7918e212-31d9-4c59-a50a-c496760809d2][one-to-one]] or [[id:34ba7b8e-b411-451c-a0c4-c8be5bbd05cf][onto]]

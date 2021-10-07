@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       7918e212-31d9-4c59-a50a-c496760809d2
+:END:
+#+title: one-to-one
+
+* Definitions
+
+- T is one to one if and only if the equation T(x) = 0 has only the
+[[id:75166794-370e-4a59-81cf-01189a2d1893][trivial solution]]
+
+- Also if the columns of A are [[id:709eb5df-7234-4be5-bc85-49ff8fda76ed][linearly independant]]
+
+- 
