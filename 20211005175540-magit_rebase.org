@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ebbd50cd-ebd9-47d8-8268-36ea93167ac1
+:END:
+#+title: magit_rebase
+
+When rebasing a certain commit hit r then i
+
+The commit will show up and everything after it as you are editing the
+entire history
+
+When rebasing instead of committing with c c you must continue rebasing
+with r r
+* Merging commits
+** Fixup
+Only changes of a commit into a previous commit
+** Squash
+This saves the message of the second commit.  You can edit the
+messages together
+
+Use fixuo when you dont care about message and squash when you do care
