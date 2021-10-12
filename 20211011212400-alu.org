@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8a5eebca-0d03-4a45-b97b-aaea619ba967
+:END:
+#+title: ALU(Arithmetic/Logic Unit)
+
+
+* Its the computational engine in the typical processor
+
+* Performs arithmetic operations
+- Add, Subtract, Multiply, and Divide
+- Shift (Left Right Circular)
+- Boolean (and, or, not, xor)

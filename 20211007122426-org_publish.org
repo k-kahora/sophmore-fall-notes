@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       9fd4326a-4b6f-498d-b0a0-65370a89fbf3
+:END:
+#+title: org-publish
+* Publshing Website
+
+make a build.cmd and a build-site.el,
+
+In the build-site.el
+#+begin_src emacs-lisp
+  
+  (require 'ox-publish)
+
+(message "Build complete!")
+
+  
+#+end_src
+
+in the build.cmd
+#+begin_src cmd
+  
+  emacs -Q --script build-site.el
+  
+#+end_src
+
+run chmod +x build.cmd
+
+the run build.cmd
+
+then add this to build.el
+
+#+begin_src emacs-lisp
+  
+  ;; Define the publishing project
+(setq org-publish-project-alist
+      (list
+       (list "my-org-site"
+             :recursive t
+             :base-directory "./content"
+             :publishing-directory "./public"
+             :publishing-function 'org-html-publish-to-html)))
+
+;; Generate the site output
+(org-publish-all t)
+  
+#+end_src

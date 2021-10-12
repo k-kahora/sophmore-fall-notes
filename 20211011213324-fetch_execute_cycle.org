@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       fbd23fba-88b0-4b91-b48c-f8fe557e6895
+:END:
+#+title: Fetch-Execute Cycle
+#+begin_src c
+  
+  Repeat {
+  
+    Fetch: "access the next step in the program";
+    Execute: "Perform that step";
+  
+  }
+  
+#+end_src
+
+* Fetch
+The next instruction is received from the [[id:b9f9ce1d-63cb-43f3-ac7a-756458913509][CPU]] from main [[id:689bab54-c1c3-48bb-8a56-50683110a4b5][Memory]]
+* Decode
+operator + operand e.g. ADD R1 R5
+
+The above uses assembly code which says given the instruction ADD add the
+contents of [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]] 1 and save it in [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]] 2.
+* Execute
+the [[id:ecb0e0e8-550b-4752-9af1-a4d7bb9ee934][CU(Control Unit)]] activates the necessary circuitry whether that's
+transferring data, reading and writing, etc.
+
+

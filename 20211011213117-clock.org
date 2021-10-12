@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4e8ec748-9200-4429-a594-4c81b055275d
+:END:
+#+title: Clock
+* Provides timing signals to synchroniz circuits
+It like amtreonome provides a on and off pulse.
+
+Devices can use clock as they wish
+
+The Clock sits on the motherboard

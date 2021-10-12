@@ -3,3 +3,6 @@
 :END:
 #+title: Registers
 
+Small data storage, quick and small, very efficient.
+
+

@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       561d6c08-e3bb-442e-8b28-72c240f56ab5
+:END:
+#+title: Von Neumann Architecture
+
+Compare to Harvard Architecture which has separate memory for data and instructions.
+
+#+attr_org: :width 200px
+#+attr_latex: :width 200px
+#+attr_html: :width 200px
+#+CAPTION: Model of Von Neumann Arch
+[[~/OrgRoamImages/VonNeu.png]]
+
+* A CPU processes data
+** Contain four units
+- [[id:8a5eebca-0d03-4a45-b97b-aaea619ba967][ALU]]
+- [[id:ecb0e0e8-550b-4752-9af1-a4d7bb9ee934][CU(Control Unit)]]
+- [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]]
+* 3 Major characteristics of theoretic model
+** [[id:689bab54-c1c3-48bb-8a56-50683110a4b5][Memory]]
+*** Instructions to be executed are stored in memory (along side the data) as binary values.
+*** Instructions are executed sequentially
+** [[id:8a5eebca-0d03-4a45-b97b-aaea619ba967][ALU(Arithmetic/Logic Unit)]] and [[id:ecb0e0e8-550b-4752-9af1-a4d7bb9ee934][CU(Control Unit)]] 
+** I/O
+* [[id:4e8ec748-9200-4429-a594-4c81b055275d][Clock]]
+* General
+Data and instructions stored in [[id:0b73808d-f4e1-40b6-880a-deaf18cee288][RAM]]
+Contents of RAM are addressable by location
+Sequential Execution is supported (loops, function calls, etc.)
+* [[id:4042cf69-8321-418f-9da8-8e6e62beec5e][Manos Simple Computer]]

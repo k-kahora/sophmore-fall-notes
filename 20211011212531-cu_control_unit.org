@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ecb0e0e8-550b-4752-9af1-a4d7bb9ee934
+:END:
+#+title: CU(Control Unit)
+
+Coordinates the activities of the [[id:b9f9ce1d-63cb-43f3-ac7a-756458913509][CPU]]

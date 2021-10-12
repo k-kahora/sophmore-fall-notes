@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       be9901f6-082c-414c-97d5-45a3b5eeb66a
+:END:
+#+title: operand
+

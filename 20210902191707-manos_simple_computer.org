@@ -3,6 +3,25 @@
 :END:
 #+title: Manos Simple Computer
 
-~\OrgRoamImages\mano_computer
 
 
+
+#+attr_org: :width 500px
+#+attr_latex: :width 200px
+#+attr_html: :width 200px
+#+CAPTION: Simple Mano Computer
+[[/mnt/c/Home/OrgRoamImages/mano_computer.png]]
+#+STARTUP: align
+| Register Symbol | Number of Bits | Register Name         | Function                     |
+| DR              |             16 | Data [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]]        | Holds Memory [[id:be9901f6-082c-414c-97d5-45a3b5eeb66a][operand]]         |
+| AR              |             12 | Address [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]]     | Holds address for [[id:689bab54-c1c3-48bb-8a56-50683110a4b5][Memory]]     |
+| AC              |             16 | Accumulator           | Processor register           |
+| IR              |             16 | Instruction [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]] | Holds instruction Code       |
+| PC              |             12 | Program counter       | Holds address of instruction |
+| TR              |             16 | Temporary [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]]   | Holds temporary data         |
+| INPR            |              8 | Input [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]]       | Holds input character        |
+| OUTR            |              8 | Output [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]]      | Holds output charecter       |
+
+
+
+The [[id:58f5230b-2e77-4989-8caf-760be34db2b1][Bus]] is a wire that contains loads of data.
