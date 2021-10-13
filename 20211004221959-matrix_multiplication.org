@@ -3,5 +3,9 @@
 :END:
 #+title: Matrix Multiplication
 
+The rows of A must equal the columns of B 
 
 
+\(\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} * \begin{bmatrix} 7 & 8 \\ 9 & 10 \\ 11 & 12 \end{bmatrix} = \begin{bmatrix} 58 & 64 \\ 129 & 154 \end{bmatrix} \)
+
+\(1*7 + 2*9 + 3*11 = 58\)
