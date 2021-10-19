@@ -9,3 +9,15 @@ The rows of A must equal the columns of B
 \(\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix} * \begin{bmatrix} 7 & 8 \\ 9 & 10 \\ 11 & 12 \end{bmatrix} = \begin{bmatrix} 58 & 64 \\ 129 & 154 \end{bmatrix} \)
 
 \(1*7 + 2*9 + 3*11 = 58\)
+
+If A is an mxn matrix and B is a nxp matrix then AB is a mxp matrix.
+
+If A is 7x5
+if AB is 7x2
+then p = 2
+So b is a 5x2 [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]]
+* Defintions and Understanding
+** Associative law
+A(BC) = (AB)C
+
+

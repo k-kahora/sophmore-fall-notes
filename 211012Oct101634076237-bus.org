@@ -15,3 +15,11 @@ This must be orchastrated so that conflicts dont occur when working with one wir
 [[./images/bus_control.png]]
 * Description
 The bus can only have one register loaded into it at once.  The Input devices connected to the bus are loaded from a [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][register]].  Using a buffer devices that disables input when OE is asserted allows control over which data can travel through the bus.
+* Questions
+** How many clock pulses are required to load a 4 into RegA and have RegA drive the bus
+Only one clock pulse is required.
+** Suppose the current state of RegA = 1011_2 and the current state of RegB = 7_16.  When RegAEnable\ and RegBEnable\ are both asserted at the same time, what values are on the bus?
+Z or undefined outpu
+
+
+
