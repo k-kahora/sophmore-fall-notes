@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e4535d59-5d30-4de1-b774-c218b2256ba3
+:END:
+#+title: matrix inversion
+* Theorm
+
+There is a theorem with a ton of rules that I need to put here
+
+| A is an invertible matrix                                                |
+| A is row equivlent to the \(nxn\) identity matrix                        |
+| A has n pivot positrons                                                  |
+| The equation Ax = 0 has only the trivial solution                        |
+| The column s of A from the [[id:709eb5df-7234-4be5-bc85-49ff8fda76ed][linearly independant]] set                      |
+| The [[id:e980c332-9372-4a17-89eb-85127d42a7ee][linear_transformation]] \(x \rightarrow Ax\) is [[id:7918e212-31d9-4c59-a50a-c496760809d2][one-to-one]]             |
+| The equation [[id:c33e5265-775b-46a9-a8fd-59d72df66e25][Ax = b]] has at least one soulution for each b in \(R^2\)     |
+| The columns of A [[id:bc160c6f-6b75-42b8-8e23-05be54511a25][span]] \(R^n\)                                            |
+| The [[id:e980c332-9372-4a17-89eb-85127d42a7ee][linear_transformation]] \(x \rightarrow Ax\) maps \(R^n\) [[id:34ba7b8e-b411-451c-a0c4-c8be5bbd05cf][onto]] \(R^n\) |
+| There is an nxn [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] C such that CA = I                                |
+| There is an nxn [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] D such that AD = I                                |
+| \(A^T\) is an invertable matrix                                           |                 
+
+[[id:b6e0de34-2a02-43f8-baa7-eca324304ae3][determinant]]

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       b6e0de34-2a02-43f8-baa7-eca324304ae3
+:END:
+#+title: determinant
+* Determinants are for [[id:44e87b17-b0a0-48e8-b20d-7ebc93a15a33][square matrixes]]
+* [[id:2d268c03-ec19-4c69-a3e1-60194f54a840][Triangular Matrix]] determinants are easy.
+* Example
+\(A = \begin{pmatrix} a & c \\ b & d \end{pmatrix} \)
+
+\(A = ad-bc\)
+
+Also no matter the size of the [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]], row replacement never changes the determinant.
+
+However this is not the case for scaling or interchanging rows of matrices.
+
+*Theorem:* Let A be a square matrix
+
+If B is produced by adding a multiple of one row to another then \(detA = detB\)
+If B is produced by interchanging two rows then \(detB = -detA\)
+If B is produced by scaling one row to another by k then \(detB=k*detA\)
+* Methods for solving determinant
++ [[id:c10fe6c8-f263-46d0-a833-6ef17e67cab2][co-factor expansion]]
+* Geometrically
+A paralellgram can be defined by u and v such that the four corners are u, v, u + v, and 0
+(easy to visualize with simple vectors such as)
+\(u = \begin{bmatrix} 6 \\ 0 \end{bmatrix}  \) and \(v = \begin{bmatrix} 3 \\ 7 \end{bmatrix} \)

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c10fe6c8-f263-46d0-a833-6ef17e67cab2
+:END:
+#+title: co-factor expansion
+

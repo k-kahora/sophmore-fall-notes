@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       2d268c03-ec19-4c69-a3e1-60194f54a840
+:END:
+#+title: Triangular Matrix
+* Triangular Matrixes are self explanatory
+
+Here are a few examples
+
+\( \begin{pmatrix} 1 & 1 & 1 & 1 \\ 0 & 1 & 1 & 1 \\ 0 & 0 & 1 & 1 \\ 0 & 0 & 0 & 1 \\ 0 & 0 & 0 & 0 \end{pmatrix}   \)
+
+0 below or above the diagonal.
