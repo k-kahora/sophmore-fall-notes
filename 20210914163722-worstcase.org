@@ -3,8 +3,12 @@
 :END:
 #+title: Worstcase
 
+Opposite of [[id:267319e2-bf85-4ce0-8e89-7791ca956ab8][bestcase]]
+
 It depends on speed of the computer
 relative speed is non machine depedenat
 absolute speed is machine dependant
 
 Growth is T(n) as n -> infinity
+* Its the maximum number of steps taken on any insatnce of size n
+It could happen but doesn't mean it will happen

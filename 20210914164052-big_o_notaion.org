@@ -9,4 +9,8 @@
   \(c\)  such that to the right of \(n_0\), the value of \(f(n)\)
   always lies on or above \(c * g(n)\)
 
+  A tight upper bound means there are functions which are below the current upperbound that still satisfy O(f(n))
+
+  See [[http://bigocheatsheet.com][bigocheatsheet]] for a list of dominance
+
 

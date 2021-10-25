@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       267319e2-bf85-4ce0-8e89-7791ca956ab8
+:END:
+#+title: bestcase
+
+Defined by the minimum number of steps to taken on any instance fo size n
+* Average case is the average steps to run n times
+:PROPERTIES:
+:ID:       b2cfb0d5-4449-422f-b7ee-cad7e2c20812
+:END:
