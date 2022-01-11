@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       fd13f51c-6412-4b19-a971-9782bea674c0
+:END:
+#+title: emacs usefuk
+* Copy dired link
+C-0 w . . . Direct
+C-u w relative
+* Numbered lists
+1) One
+2) Two
+3) Three
+   wggewgqeg erg
+4) [@4] wfwef
+5) sdff
+6) sf
+* Flush Lines
+Delete blank lines in buffer using this regexp
+^$
+* 
+egqeg
+
+g
+g
+er
+g
+
+
+
+erger
+t
+
+t
+ewr
+t 
+* Org export
+Avoid joining lines with
+(org-export-preserve-breaks)
+
+- Per file
+  #+OPTIONS: \n:t
+* Delete characters without kill-ring
+1. M-x delete-region
+2. C-d backspace
+* Sort dired
+
+C-u s
+
+- alh by name
+- alt by date
+- lhs by size
+* [[id:b3661c20-489b-4802-96e3-139c81178eb8][Emacs Local Varibles]]
+* Ivy
+
+C-M-j This lets me exit Ivy immediately with the cur value.

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4f74b9df-a78e-4034-b0e6-9eca65d68856
+:END:
+#+title: Null Space
+
+
+Null space is analogous to the solution set.
+
+The null space os a mxn matrix is the set of a ll soulutions to [[id:9324a2d2-ed21-418d-8a84-d6c53f794828][Ax = 0]]
+
+*Restated*   the null is space is the set of all solutions to Ax = 0

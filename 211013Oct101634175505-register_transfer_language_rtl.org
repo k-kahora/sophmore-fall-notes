@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       dd12b221-f4f6-4cf1-bc68-3935f7dc89ff
+:END:
+#+title: Register Transfer Language(RTL)
+* What is RTL
+It tells us how to transfer one register to another register
+
+
+
+[[https://superuser.com/questions/1262977/open-browser-in-host-system-from-windows-subsystem-for-linux][Bruh]]
+
+Operations executed on registers are considered micro operations
+
+\(R2 \leftarrow R1\) This statement defines the transfer from the contents of R1 into R2
+* Types of Operations
+** SimpleTransfer
+** Conditional Transfer
+\(P_1: R2 \leftarrow R3\)
+
+If P is one then transfer R3 to R2
+** Simultaneous Operations
+\(R2 \leftarrow R1, R3 \leftarrow R4\)
+
+These happen at the same time

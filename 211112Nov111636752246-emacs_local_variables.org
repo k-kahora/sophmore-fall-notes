@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       b3661c20-489b-4802-96e3-139c81178eb8
+:END:
+#+title: Emacs Local Variables
+
+
+You can use M-x  add-file-local-variable to add local varibles to just a single file in emacs
+
+Use eval to evalue lisp in the local file
+
+Also see [[id:4295902f-b9d6-4293-a1d8-894b6e9cfe9f][Emacs Directory Local Variables]]
+
+#+begin_src emacs-lisp
+
+
+(message "it works")
+
+
+;; Local Variables:
+;; mode: emacs-lisp
+;; tab-width: 4
+;; eval: (flymake-mode 0)
+;; End:
+
+
+#+end_src

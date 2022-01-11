@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a374972e-fa92-40c9-a7d1-d0f8cbca1614
+:END:
+#+title: variables
+

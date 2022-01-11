@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8801fecf-7982-4a69-9c3d-00bac89d8f57
+:END:
+#+title: set symbols
+
+
+| Symbol            | Defintion                                  | Example         |
+| {}                | The set of elements                        | {1, 2, 3, 4, 5} |
+| A \(\cup\) B      | Both A and B                               |                 |
+| A \(\cap\) B      | Intersection so what elements are the same |                 |
+| A \(\subseteq\) B | Every element of A is in B                 |                 |
+| A \(\subset\) B   | Every element is in A but B is bigger      |                 |
+
+Theres a lot more need to add more later

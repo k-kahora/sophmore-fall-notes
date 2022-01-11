@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a296ec95-2fe0-4ce0-a20b-e2d4e1be3ad2
+:END:
+#+title: Instruction Format
+
+#+attr_org: :width 1000px
+#+attr_latex: :width 100px
+#+attr_html: :width 400px
+#+CAPTION: Sample Questions
+[[/mnt/c/Home/roamnotes/images/instruction_format.PNG]]
+* Ram
+- Ram size is 64000x32
+
+
+32 - bits
+|   |   |   |   |

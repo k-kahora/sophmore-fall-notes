@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0eb91375-6ec7-4da3-aac9-fd9ffc99de69
+:END:
+#+title: wsl2
+
+
+
+here are some cool command
+
+wsl -l -v to list all distros
+
+wsl -s [Distro] to set the defaut distro
+
+wsl -t [Distro] to shut down a whole distribution
+
+
+ 
+
+Heres how to make a [[id:54a5cc01-174b-41a6-b59e-22923f79aac5][wsl2 custom distro]]

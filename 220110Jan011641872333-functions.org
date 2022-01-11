@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       a65e4497-eb5c-4fc8-a901-6ecc3f453c7a
+:END:
+#+filetags: bash
+#+title: Functions
+
+
+Functions in bash work like functions in most programming languages.
+
+#+NAMEL sum
+#+begin_src shell :session sum
+
+  sum() {
+
+    echo "$1 + $2 = $(($1 + $2))"
+
+    }
+
+#+end_src
+
+#+RESULTS:
+
+This does nothing as its only stored in memory
+
+#+begin_src shell :session sum
+
+sum 1 4
+
+#+end_src
+
+#+RESULTS:
+: 1 + 4 = 5
+
+Very cool stuff
+
+If you want to wrap a function in a script your going to have to do something like this.
+
+#+begin_src shell :eval no
+
+ #!/bin/bash
+   sum() {
+       echo "$1 + $2 = $(($1 + $2))"
+   }
+   sum "$1" "$2"
+
+#+end_src
+
+You can call this with sum 2 9 in the cli
+
+You can also have functions with local parameters.  Declare them with local or declare.
+
+#+begin_src shell :session count :results output
+
+ count() {
+     local i
+     for ((i=1; i<=$1; i++)); do echo $i; done
+     echo 'Ah, ah, ah!'
+ }
+ 
+
+
+#+end_src
+
+#+RESULTS:
+
+Hers the function call.
+
+#+begin_src shell :session count :results output
+
+for ((i=1; i<=3; i++)); do count $i; done
+
+#+end_src
+
+#+RESULTS:
+: 1
+: Ah, ah, ah!
+: 1
+: 2
+: Ah, ah, ah!
+: 1
+: 2
+: 3
+: Ah, ah, ah!
+
+As you can see i is not carried over.
+
+Next [[id:fb1ff9d7-9571-46b3-ac49-ce0472fbd206][aliases]]

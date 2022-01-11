@@ -1,0 +1,50 @@
+:PROPERTIES:
+:ID:       8cb593cb-29bf-4a06-95e8-3c22cb150c4a
+:END:
+#+title: terminal
+* The terminal is sick as hell
+** Cool infor commands
+#+begin_src shell
+
+
+ncdu
+
+#+end_src
+
+This gives you the list of file in the directory and shows what takes up the most space
+** htop
+Idk what this does but ist cool
+* Basic [[id:3471ecac-5de8-4074-937e-d3980fb61130][Programming Lang]]
+
+#+begin_src shell
+
+
+          mkdir test
+        cd test
+      echo "what the heck" > test.txt
+    ls
+  echo "john" >> test.txt
+
+
+
+#+end_src
+
+Two >> takes the standard input and appends it to the file
+
+First line should be the shebang line
+#+begin_src shell
+
+#!/bin/bash
+
+#+end_src
+This means this script will run the bash shell
+
+When making your script you must make it executable
+
+#+begin_src shell
+
+  chmod +x yourscript.sh
+  ls -g
+
+#+end_src
+-g shows the groups the file is in it should be in the executable group

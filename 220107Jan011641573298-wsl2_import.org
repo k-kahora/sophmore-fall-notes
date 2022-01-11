@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       87a2881f-768a-4d8e-aa42-cece6bb649db
+:END:
+#+title: wsl2 --import
+
+- Takes a .tar ot .tar.gz roofts archive.
+- Creates a Hyper V disk image from it in the ext4,whdx file
+- Extracts the contents into the disk image
+- Adds a bunch of files and directroies to the image icluding /init
+  

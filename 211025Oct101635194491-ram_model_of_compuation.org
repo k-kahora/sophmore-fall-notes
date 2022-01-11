@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b8ccf46b-165a-40fd-84bd-39a01f37c95a
+:END:
+#+title: RAM model of Compuation
+
+Measure runtime by counting the number of steps.
+Its useful and accurate as its not perfect but simplfies things while still being accurate enough.
+
+
+ 

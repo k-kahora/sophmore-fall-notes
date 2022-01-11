@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       98085291-529a-4e43-b025-51fd921d1cd0
+:END:
+#+title: 2021
+* Packages to look at
+** Modus themes
+Customize the colors and themeing
+Color pallete blending
+** Straight.el
+** Tab bar mode
+** Popper
+** power-mode.el
+

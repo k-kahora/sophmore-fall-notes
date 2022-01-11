@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6b94cb1e-925b-4cd8-90b8-21e62d3751f0
+:END:
+#+title: ripgrep on Ubuntu
+[[https://lindevs.com/install-ripgrep-on-ubuntu/][ripgrep install]]

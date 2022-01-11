@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3e3e5edb-c388-4095-9172-8a00cd35cb05
+:END:
+#+title: comer chp 5
+
+- See 4-3 for buses and [[id:eabaae0f-55bf-46b1-be44-6634f930a070][multiplexer]]
+- D and JK [[id:fa233da4-f800-4b83-b5a6-62d681005cb9][Flip Flops]] in Sec 1-6

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       dc6ced27-942b-45e5-afcb-f77fc0d5a2fc
+:END:
+#+title: Minecraft
+* Make trading hall
+* XP farm

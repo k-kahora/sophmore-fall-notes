@@ -1,0 +1,85 @@
+:PROPERTIES:
+:ID:       3aa7cf3d-72cd-4b68-a7a8-4f0ccd7ba139
+:END:
+#+title: Basis
+
+For a set of vectors to be a Basis the set must be [[id:709eb5df-7234-4be5-bc85-49ff8fda76ed][linearly independant]] and the set must [[id:bc160c6f-6b75-42b8-8e23-05be54511a25][span]] the entire dimension
+
+#+begin_src octave :results output
+
+
+#+end_src
+
+#+begin_src octave :results output
+
+#+end_src
+
+#+RESULTS:
+#+begin_example
+M =
+
+    1    0   -5    8    0
+    0    1   -2    5    0
+    5  -13    1  -25    0
+
+ans =
+
+   1   0  -5   8   0
+   0   1  -2   5   0
+   0   0   0   0   0
+
+#+end_example
+* 2
+
+#+begin_src octave :results output
+
+            v1 = [4 ; -3 ; 1];
+          v2 = [1 ; 9;  -8];
+        v3 = [11 ; 8 ; -11];
+
+
+
+      v1 = v1*7
+    v2 = v2*5
+  v3 = -3*v3
+
+
+#+end_src
+
+#+RESULTS:
+#+begin_example
+v1 =
+
+   28
+  -21
+    7
+
+v2 =
+
+    5
+   45
+  -40
+
+v3 =
+
+  -33
+  -24
+   33
+
+#+end_example
+
+#+begin_src octave :results output
+  a = [1 2 4 -7 5 0 ; 1 2 0 1 5 0; 4 8 -5 14 7 0; 2 4 0 2 7 0];
+
+rref(a)
+#+end_src
+
+#+RESULTS:
+: ans =
+: 
+:    1   2   0   1   0   0
+:    0   0   1  -2   0   0
+:    0   0   0   0   1   0
+:    0   0   0   0   0   0
+: 
+ 

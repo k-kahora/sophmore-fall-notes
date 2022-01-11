@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       cafb4e47-339b-4f4a-b1f3-0ebbb8317668
+:END:
+#+filetags: bash
+#+title: file descriptors
+

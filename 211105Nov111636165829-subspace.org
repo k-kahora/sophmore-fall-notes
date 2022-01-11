@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       75acb97f-2ff7-4464-a181-8d8fbbeec2e6
+:END:
+#+title: subspace
+* Subspace is of [[id:3b5a8d8e-5a48-44c4-aa4f-29761ebd2067][Vector Space]] V is a subset H of V if:
+1. The zero [[id:4180700c-adde-43ae-9fef-251975521d8e][Vectors]] of V is in H
+2. The subset H is closed under [[id:b8e2c682-9b16-45e2-91a6-24e86fd55746][Vector Addition]] so u+v is in H
+3. The subset is closed under [[id:92d4a6db-a274-45dc-8e41-54862b5586ee][Vector Multiplication]] by scalers so cu is in H

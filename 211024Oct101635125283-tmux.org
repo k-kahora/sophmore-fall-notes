@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       66eaea41-b77f-4afd-9477-2302a80bf2ee
+:END:
+#+title: tmux
+Tmux is a linux comand that allows multi terminals in the terminal window
+You can leave with C-c C-d
+
+C-b % to split the terminal
+C-b + arrow keys to move to diffrent terminals
+Also C-b " for vertical split

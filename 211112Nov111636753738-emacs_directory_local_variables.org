@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4295902f-b9d6-4293-a1d8-894b6e9cfe9f
+:END:
+#+title: Emacs Directory Local Variables
+
+There can be diffrent files with diffrent modes so
+
+Diffrent format file that org local files
+
+You can use     "copy-file-locals-to-dir-locals"  to copy file local variables to directory local variables The inverse works as well for example     "copy-dir-locals-to-file-locals"  See [[id:b3661c20-489b-4802-96e3-139c81178eb8][Emacs Local Variables]]

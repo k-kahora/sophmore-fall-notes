@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       4212c0e0-651f-49ff-963b-8b2513abc138
+:END:
+#+filetags: bash
+#+title: Destroying Constructs
+
+
+To remove a function or a variable from the current shell environment use unset.  Use the -f or -v respecivaley f(unction) v(ariable).  Because if not specfied variable take propriety.
+
+#+begin_src shell :eval no
+
+unset -f myfunction
+
+#+end_src
+
+Unsets the functions
+
+#+begin_src shell :eval no
+
+unset -v 'myArray[2]' $ unsets the second element of myArray
+
+#+end_src
+
+You can remove an [[id:fb1ff9d7-9571-46b3-ac49-ce0472fbd206][aliases]] with this command
+
+#+begin_src shell :eval no
+
+  unalias rm
+
+#+end_src
+
+Up next see [[id:71a06db5-8373-40ea-b9ee-c5edae3af8ec][sourcing]]

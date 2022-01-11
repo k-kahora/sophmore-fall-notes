@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2d315a72-d45e-4ac8-884d-89b5af5dd64e
+:END:
+#+title: microoperations
+* RTL Instructiosn excute a sep of micro instructions on registers
+

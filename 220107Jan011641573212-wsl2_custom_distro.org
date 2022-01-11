@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       54a5cc01-174b-41a6-b59e-22923f79aac5
+:END:
+#+title: wsl2 custom distro
+
+You must first know what the [[id:87a2881f-768a-4d8e-aa42-cece6bb649db][wsl2 --import]] command does
+

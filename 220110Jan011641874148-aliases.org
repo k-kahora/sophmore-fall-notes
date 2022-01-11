@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       fb1ff9d7-9571-46b3-ac49-ce0472fbd206
+:END:
+#+filetags: bash
+#+title: aliases
+
+One might think [[id:fb1ff9d7-9571-46b3-ac49-ce0472fbd206][aliases]] are similar to [[id:a65e4497-eb5c-4fc8-a901-6ecc3f453c7a][Functions]] at first glance but here are there diffrences
+
+- Aliases do not work in scripts
+- Aliases can not take arguments
+- Aliases will not invoke themselves recursively
+- Aliases cannot have local variables
+
+  Aliases are pretty much keyboard shortcuts
+
+  #+begin_src shell :eval no
+
+    alias ls='ls --color=auto'
+
+
+  #+end_src
+
+  They way these work is bash checks the first word of every single command and to see whether it's an alias, and if it is it does text replacement.
+
+  So if you type
+  #+begin_src shell :eval no
+
+ls /tmp
+
+  #+end_src
+
+  bash will see it as
+
+  #+begin_src shell :eval no
+
+ls --color=auto /tmp
+
+  #+end_src
+
+  To make it a function you would do this
+
+  #+begin_src shell :eval no
+
+    unalias ls
+ls() { command ls --color=auto "$@";  }
+
+  #+end_src
+
+  We need a semicolon as with a command group if we write it all on one line.
+  the command keyword prevents recursive calls and instead call the ls that would be called if we never declared the function
+
+  Alias are good for non complex functions
+[[id:4212c0e0-651f-49ff-963b-8b2513abc138][Destroying Constructs]]
+  

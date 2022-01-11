@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       66fcda90-e172-41ef-ba17-2c82531764d4
+:END:
+#+title: Diagonalization
+
+We can write a [[id:08dce69d-0252-4201-9f50-e864901fd373][matrix]] as PDP^-1 where D is the diagonal matrix
+
+An nxn matrix A is diagonalizable iff A has n [[id:709eb5df-7234-4be5-bc85-49ff8fda76ed][linearly independant]] eigen vectors,
+
+P: nxn
+D: Diagonal matrix \(\lambda_1 ... \lambda_n\)
+AP = A[p_1 . . . p_n] = 

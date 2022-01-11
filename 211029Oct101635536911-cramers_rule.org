@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d2dc6049-2a5f-47f5-be17-d35205eaf8b3
+:END:
+#+title: Cramers Rule
+* The formula
+
+\(x_i = \frac{detA_i(b)}{detA}, i = 1,2,3,...,n\)
+
+<

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       71a06db5-8373-40ea-b9ee-c5edae3af8ec
+:END:
+#+title: sourcing
+* WIP
+
+See [[id:59149063-856c-4586-a408-fd74390ba777][bash]]
+
+When calling a script from another it inherits the [[id:f89908f1-a468-4b64-b55f-48611a2c79bf][Enviroment]] of the original script.  The environment can be considered the current working directory, open [[id:cafb4e47-339b-4f4a-b1f3-0ebbb8317668][file descriptors]], and environment [[id:a374972e-fa92-40c9-a7d1-d0f8cbca1614][variables.]] you can these with the [[id:19a79b7e-383a-4aa1-8626-e98ef7c08983][export]] command.
+
+When a script finishes running its [[id:f89908f1-a468-4b64-b55f-48611a2c79bf][Enviroment]] is discarded.  This is why you cant run a script to change the current working directory.
+
+But you can source the script.  You do this with the dot command.
+
+#+begin_src shell
+
+. ./myscript   #runs the commands from the file myscript in this environment
+
+#+end_src
+
+This can be called dotting a script.  This tells [[id:59149063-856c-4586-a408-fd74390ba777][BASH]] to read myscript in the current [[id:f89908f1-a468-4b64-b55f-48611a2c79bf][Enviroment]].  Source is a command that does that same thing as dot.
+
+Next is [[id:34adfe97-3601-488b-ba3f-a9204d9c53e2][Job Control]]

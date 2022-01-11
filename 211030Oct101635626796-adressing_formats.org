@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e7ffd212-c26e-41b7-96b6-6e31fce11d1c
+:END:
+#+title: adressing formats
+* Circuit Level
+#+attr_org: :width 400px
+#+attr_latex: :width 100px
+#+attr_html: :width 100px
+#+CAPTION: Decoders make clock ticks and decode the OP code
+[[/mnt/c/Home/roamnotes/images/adressing.png]]
+

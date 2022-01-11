@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       dbbc20fb-3bc7-457e-b76d-e46a94b7ec2e
+:END:
+#+title: simmplehttp
+
+
+share the directory to local host with ./simplehttp
+then acess it via
+https:
+
+#+begin_src shell
+
+  ./simplehttp -d ~/PathToDirectorie
+
+
+#+end_src

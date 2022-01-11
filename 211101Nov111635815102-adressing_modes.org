@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       c5e93bed-9442-4e30-b9d2-74019bfad7c7
+:END:
+#+title: Adressing Modes
+
+* Part of [[id:fbd23fba-88b0-4b91-b48c-f8fe557e6895][Fetch-Execute Cycle]] / Decoding
+
+Accessing RAM is a bottle neck in [[id:561d6c08-e3bb-442e-8b28-72c240f56ab5][Von Neumann Architecture]] this is why direct adressing and putting values in registers is much faster and optimal
+
+** Immediate operand
+A signed or unsigned constant
+
+Such as
+LDA (HEX 5) instead of a memory address
+
+** Direct Addressing: Instructions Contain the effective address of the operand
+
+** Indirect addressing: Instruction contains the address of a word (Pointer to the operand)
+** Operand Encoding
+** Misc Types (indexed, base register, register, register indirect, and more!!)
+
+*** Explicit encoding
+:PROPERTIES:
+:ID:       79eed724-c8ca-4cd4-98d0-b94bf9332fec
+:END:
+
+*** Implicit encoding
+:PROPERTIES:
+:ID:       d8cf84a5-501a-4ec7-a7e2-a7631d436150
+:END:
+
+* Steps for a [[id:689bab54-c1c3-48bb-8a56-50683110a4b5][Memory]] Write
+
+1. Load the MAR (or AR)
+2. Load the MBR or DR
+3. Assert the write enable
+4. Unassert the write enable
+* [[id:a296ec95-2fe0-4ce0-a20b-e2d4e1be3ad2][Instruction Format]]
+
+The instruction format is [[id:97dba05a-fc56-4929-a1bb-11f25eb9ee91][Computer Architecture]] dependent
+Mano operates on one adress format
+
+** Three Address Instruction
+*** OP Destination Source1 Source2
+*** Example
+#+begin_comment
+add Z, X, Y // Add variable Y to X and store it in Z
+
+#+end_comment
+** Two Address Instruction
+*** OP Destination/Source1 Source2
+*** Example
+
+#+begin_comment
+
+add X, 7  // Two instructions
+
+#+end_comment
+
+** One Register / One memory address (AC based)
+*** OP [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]]- Number or OP Source
+*** Example
+
+#+begin_comment
+
+load X
+add 7
+sta X
+
+#+end_comment
+
+** Zero Address Instruction (Stack Machine)
+*** Push 
+*** Pop

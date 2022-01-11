@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       59149063-856c-4586-a408-fd74390ba777
+:END:
+#+filetags: bash
+#+title: BASH
+
+
+Bash scripting

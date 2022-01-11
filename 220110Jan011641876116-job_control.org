@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       34adfe97-3601-488b-ba3f-a9204d9c53e2
+:END:
+#+filetags: bash
+#+title: Job Control
+

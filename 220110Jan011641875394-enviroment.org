@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f89908f1-a468-4b64-b55f-48611a2c79bf
+:END:
+#+filetags: bash
+#+title: Enviroment
+
