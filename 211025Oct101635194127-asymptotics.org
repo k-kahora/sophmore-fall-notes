@@ -13,3 +13,11 @@ The nature as a value reaches a very very large value beyond imagination.
 Best understanding of performance of a [[id:5ab3eac4-522f-4270-bfd4-1f66e921a376][Algorithms]] 
 * In a nut-shell
 If you can find a C (Constant) that satisfy's a bound (upper, lower, exact) then that function is the behavior at the tail end of T(n)
+* Types of asymptotics
+
+O-notation is \(\geq\) or \(\leq\)
+o-notion is > or <
+
+Same for rest
+
+

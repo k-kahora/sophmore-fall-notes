@@ -24,3 +24,5 @@ If B is produced by scaling one row to another by k then \(detB=k*detA\)
 A paralellgram can be defined by u and v such that the four corners are u, v, u + v, and 0
 (easy to visualize with simple vectors such as)
 \(u = \begin{bmatrix} 6 \\ 0 \end{bmatrix}  \) and \(v = \begin{bmatrix} 3 \\ 7 \end{bmatrix} \)
+* Properties Of Determinant
+

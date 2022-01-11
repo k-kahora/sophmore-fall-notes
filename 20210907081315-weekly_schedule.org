@@ -27,7 +27,7 @@ from [[id:97dba05a-fc56-4929-a1bb-11f25eb9ee91][Computer Architecture]]
 ** logicExam 1, Thursday, Sept.30
 * Week 6
 ** RTL Specifications and Control
-** Register transfer language and microoperations
+** Register transfer language and [[id:2d315a72-d45e-4ac8-884d-89b5af5dd64e][microoperations]]
 ** Control unit
 ** Processor organization; Microcode
 * Week 7

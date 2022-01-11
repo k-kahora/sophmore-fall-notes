@@ -12,3 +12,13 @@ Runtime depends on input sorted input will be faster.   The input size
 is proprtional to runtime.  Seeking upper bounds is generally done
 because it gives us a gaurentee of the highest.
 *** How it works
+
+In a insertion sort the
+* [[id:1d3c49ab-d444-4cab-bf64-e57f992e59ba][Worstcase]]
+[[id:91bf85d4-994c-42a3-8b61-301eb4aeaba1][Dominance Rankings]]
+* [[id:5ab3eac4-522f-4270-bfd4-1f66e921a376][Analysis of the Algorithim]]
+
+
+
+
+

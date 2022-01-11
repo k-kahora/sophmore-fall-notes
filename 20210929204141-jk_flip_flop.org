@@ -3,3 +3,8 @@
 :END:
 #+title: JK - Flip Flop
 
+| J | K | CLK  |         Q |
+| 0 | 0 | High | No Change |
+| 1 | 0 | High |         1 |
+| 0 | 1 | High |         0 |
+| 1 | 1 | High | Toggles Q |

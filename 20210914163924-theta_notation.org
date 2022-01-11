@@ -7,3 +7,7 @@
 - \(f(n) = \Theta(g(n)) \) if there are positive constants \(n_0\), \(c_1\), and
   \(c_2\) such that to the right of \(n_0\), the value of \(f(n)\)
   always between \(c_1*g(n)\) and \(c_2 * g(n) \) inclusive
+
+* Understandable definition
+
+

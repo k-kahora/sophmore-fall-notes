@@ -23,5 +23,18 @@ contents of [[id:a18a2aea-34b5-42a9-8f6f-5e7fe461f720][Registers]] 1 and save it
 * Execute
 the [[id:ecb0e0e8-550b-4752-9af1-a4d7bb9ee934][CU(Control Unit)]] activates the necessary circuitry whether that's
 transferring data, reading and writing, etc.
+* RTL
+
+#+attr_org: :width 400px
+#+attr_latex: :width 300px
+#+attr_html: :width 500px
+#+CAPTION: Fetch Decode
+[[/mnt/c/Home/RoamNotes/images/FETCH_DECODE.PNG]]
+
+
+adressing format
+
+| I | OP  | adressing    |
+| x | xxx | xxxxxxxxxxxx |
 
 

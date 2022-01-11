@@ -5,7 +5,7 @@
 
 
 \(\displaystyle n! >> c^n >> n^3 >> n^{1+\epsilon} >> n\log n >> n >>
-\sqrt{n} >> \log^2n >> \log n / \log\log n >> \log \log n >> alpha (n) >> 1\)
+\sqrt{n} >> \log^2n >> \log n / \log\log n >> \log \log n >> \alpha(n) >> 1\)
 
 
 Used for [[id:5ab3eac4-522f-4270-bfd4-1f66e921a376][Analysis of Algorithms]] and seeing which functions dominate
@@ -15,4 +15,5 @@ the others
 #+attr_latex: :width 200px
 #+attr_html: :width 400px
 #+CAPTION: All the rankings used in this course
-[[~\RoamNotes\Roam Images\Dom_Rank.png]]
+[[/mnt/c/Home/RoamNotes/images/Dom_Rank.png]]
+

@@ -5,11 +5,14 @@
 
 Compare to Harvard Architecture which has separate memory for data and instructions.
 
-#+attr_org: :width 200px
+Has one common buses
+Harvard has multiple buses
+
+#+attr_org: :width 800px
 #+attr_latex: :width 200px
 #+attr_html: :width 200px
 #+CAPTION: Model of Von Neumann Arch
-[[~/OrgRoamImages/VonNeu.png]]
+[[/mnt/c/Home/OrgRoamImages/VonNeu.png]]
 
 * A CPU processes data
 ** Contain four units
